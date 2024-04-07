@@ -1,0 +1,270 @@
+
+
+
+
+
+
+	
+  
+  
+  
+  
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en-us" />
+<meta name="buildDate" content="2016-06-07 15:05:25" />
+<meta name="title" content="Accounts A-Z"/>
+<meta name="robots" content="noindex, nofollow"/>
+<title>Learning A-Z Account Management - Learning A-Z.com</title>
+
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+	
+
+
+<link rel="stylesheet" href="/css/fonts--clt_16_06_010-1465329876.css" type="text/css" />
+
+	
+
+
+<link rel="stylesheet" href="/css/main--clt_16_06_010-1465329876.css" type="text/css" />
+
+	
+
+
+<link rel="stylesheet" href="/css/navigation--clt_16_06_010-1465329876.css" type="text/css" />
+
+
+
+
+
+<script type="text/javascript" src="/shared/js/swfobject_2--clt_16_06_010-1465329876.js"></script>
+
+
+
+
+<script type="text/javascript" src="/shared/js/prototype--clt_16_06_010-1465329876.js"></script>
+
+
+
+
+<script type="text/javascript" src="/shared/js/scriptaculous/scriptaculous--clt_16_06_010-1465329876.js"></script>
+
+
+
+
+<script type="text/javascript" src="/shared/js/commonUtils--clt_16_06_010-1465329876.js"></script>
+
+
+
+
+<script type="text/javascript" src="/scripts/HelpBalloon--clt_16_06_010-1465329876.js"></script>
+
+
+
+
+<script type="text/javascript" src="/shared/js/jquery-1.9.1.min--clt_16_06_010-1465329876.js"></script>
+
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+</script>
+		<style type="text/css">
+			
+		</style>
+		
+		
+		<script type="text/javascript" language="JavaScript" src="/accountsweb/img/accounts/js/shared--clt_16_06_010-1465329876.js"></script>
+  
+		
+		<script type="text/javascript">
+      try {
+ 		var _gaq = _gaq || [];
+ 		_gaq.push(['_setAccount', 'UA-6523470-43']);
+ 		_gaq.push(['_setDomainName', 'accounts.learninga-z.com']);
+ 		_gaq.push(['_setAllowLinker', true]);
+ 		_gaq.push(['_trackPageview']);
+ 		
+ 		_gaq.push(['b._setAccount', 'UA-6523470-19']);
+ 		_gaq.push(['b._setDomainName', '.accounts.learninga-z.com']);
+ 		_gaq.push(['b._setCookiePath', '/accountsweb/']);
+ 		_gaq.push(['b._trackPageview']);
+ 		
+ 		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+ 		
+   		document.observe("dom:loaded", function() {
+   			$$('a[href*="/accountsweb/"]','a[href*="/federate.do"]', 'a[href$="Trial"]', 'a[href*="/special/trial/"]', 'a[href*="/lazsite"]', 'a[href$="ReadingSolution"]').invoke('observe', 'click', function(event) {
+   				
+   				if(!this.hasClassName('lightwindow')) {
+   					_gaq.push(['_link', this.href]); 
+   				}
+   				Event.stop(event);
+   			});		
+   		});
+} catch(err) {}
+</script>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4027783"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+	</head>
+
+    <body onload="">
+
+        <div id="header">
+	        <div class="supernav">
+				<a href="https://learninga-z.com/site/contact/" target="_self" class="supernav-link">Contact Us</a>
+				<a href="https://accounts.learninga-z.com/accountsweb/account/login.do" target="_blank" class="supernav-link">Member Login</a>
+				
+	        </div>
+			<div class="logo"><a href="https://www.learninga-z.com"><img class="header-logo" src="/accountsweb/img/laz-logo-2016.png" alt="Learning A-Z" title="Learning A-Z" /></a></div>
+       </div>
+        
+		<div class="breadcrumb-section">
+		 <div class="breadcrumb-layer">
+			<div class="container">
+				<ul class="bread">             
+					<li><a href="https://www.learninga-z.com"> Home</a> </li> <li>
+				</ul>
+			</div>
+		</div>
+		</div>
+	
+	<div id="container">
+		
+			<div id="content">
+        	<div id="colLeft" class="accounts">
+        	
+			
+		<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="550">
+		  <tr>
+		    <td>
+		    	<p align="center">
+				    <img border="0" src="/accountsweb/img/marketing/trialterms-raz.gif" vspace="6" /><br/>
+				    <b><font size="3" color="#999999">
+					    
+								Downloading Stopped...
+								
+							
+				    </font></b>
+		    	</p>
+		    	
+		    	
+						
+							<p>
+								To provide direct access to as many people as possible, Learning A-Z has 
+								placed a limit on the number of downloads for a trial user. <b>You've now 
+								reached your 100% limit</b>. We hope you enjoyed your samples.
+							</p>
+							<p>
+								To enjoy unlimited, 24/7 access to our vast collection of K-6 resources,
+								<a href="https://www.readinga-z.com/order">join</a> our growing community of 
+								users today.
+							</p>
+						
+						
+					
+					
+					<p>
+						Not ready to order? <a href="https://www.readinga-z.com/sales">Use this form</a> 
+						to learn more about how Learning A-Z's unique suite of online resources can help 
+						<b>you</b> address the differentiated needs of <b>your students - efficiently</b> 
+						and <b>affordably</b>.
+					</p>
+					
+			    
+
+			    <p align="center"><a href="https://www.readinga-z.com">Return to Reading A-Z</a></p>
+					
+					<div align="center">
+					  <table border="1" cellspacing="0" style="border-collapse: collapse" bordercolor="#33CC33" width="80%" cellpadding="10" bgcolor="#CCFFCC">
+					    <tr>
+					      <td width="100%">
+						      <p>
+						      	Once your trial has expired, <b>you will need a paid and active license</b> 
+							      to use our affordable, research-based materials.
+							    </p>
+							    <p>
+							    	Nowhere can you get so 
+							      many <b>high-quality resources</b> to meet the varying needs of your diverse 
+							      student population at such a <b>low per-student cost</b>. 
+							      <a href="https://www.readinga-z.com/order">Order Now!</a>
+							    </p>
+					    	</td>
+					    </tr>
+					  </table>
+					</div>
+		    </td>
+		  </tr>
+		</table>
+  			  			  			  
+			  
+			</div><!-- /COLLEFT -->
+		
+           	<div id="colRight">
+           	    <span class="header2">Contact Us</span>
+           	    <span style="color:#666;">Questions? We've got answers!</span><br />
+                <a href="/accountsweb/marketing/contactSupport.do?username=phonics221" id="trial">
+                    <span> Contact Us</span></a>
+                    <br /> 
+               <span class="header2">Teacher Training</span>
+               <span style="color:#666;">FREE live webinars can help integrate our solutions with your curriculum.</span><br />
+                <a href="https://www.learninga-z.com/site/resources/training" id="samples">
+                 <span>Learn more</span>
+                </a>
+                
+           	</div>
+		
+           	<div class="clear"></div>
+          </div></div><!-- /CONTENT -->
+          
+     <div class="email-banner"> 
+            <div class="email-container">
+                        <p>Sign up to receive our eNews, updates, and offers.</p>
+                        <a class="subscribe-btn" href="https://accounts.learninga-z.com/accountsweb/marketing/newsletterSubscribe.do">Subscribe</a><br />
+                        <span>You may <a href="https://accounts.learninga-z.com/accountsweb/marketing/unsubscribe.do">unsubscribe</a> at any time.</span>
+        </div>
+    </div>
+        <div class="footer">
+        <div class="footer-container">
+						<div class="col-md-4">
+							<div class="footer-logo_container">
+								<img class="footer-logo" src="/img/LAZ_clg_logo_bw.png">
+							</div>
+						</div>
+						<div class="col-md-8">
+							<ul class="footer-list">
+								<li><a href="http://help.learninga-z.com/customer/portal/articles/1649236-privacy">Privacy Policy</a></li>
+								<li>/</li>
+								<li><a href="http://help.learninga-z.com/customer/en/portal/articles/1649233-terms-of-service">Terms</a></li>
+								<li>/</li>
+								<li><a href="https://learninga-z.com/site/contact/">Contact</a></li>
+								<li>/</li>
+								<li><a href="http://help.learninga-z.com/">Help</a></li>
+								<li>/</li>
+								<li><a href="http://www.learninga-z.com/site/site-map/">Site Map</a></li>
+							</ul>
+						</div>
+						<div class="legalese">&copy; Learning A-Z</div>
+	
+	</div></div>
+				
+	
+			  		  
+      
+	
+		
+		
+    </body>
+</html>
+
+
+
