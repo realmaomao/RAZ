@@ -1,0 +1,1691 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE 7 ]>    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" ><!--<![endif]-->
+
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=Windows-1252"/>
+	    	<meta name="Description" content="Award-winning reading solution with thousands of leveled readers, lesson plans, worksheets and assessments to teach guided reading, reading proficiency and comprehension to K-5 students"/>
+    	<meta name="keywords" content="reading program, leveled reading, leveled books, lesson plans, student worksheets, teaching materials, children's books, downloadable books, online books, printable books, inexpensive resources for teachers, phonics lessons, phonemic awareness, phonological awareness, vocabulary resources, decodable books, read-aloud books, alphabet books, high-frequency word books, poetry, assessment materials, comprehension quizzes, classroom resources, Put Reading First, No Child Left Behind, library supplies, language learners, K-5, elementary school materials, special education, ESL resources, ELL materials, remedial reading, home-schooling resources"/>
+	<title>Reading A-Z: The online reading program with downloadable books to print and assemble</title>
+	<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+	<link href="/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+	<link href="/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+	<link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+    <link rel="stylesheet" href="/shared/js/jquery-ui-1.10.3/themes/base/jquery-ui.css" />
+    <link rel="stylesheet" href="/shared/css/base/_tables--clt_16_06_014-1466020978.css"/>
+    <link rel="stylesheet" href="/shared/css/common--clt_16_06_014-1466020978.css"/>
+	<link rel="stylesheet" href="/styles/main--clt_16_06_014-1466020978.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/css/modules--clt_16_06_014-1466020978.css" media="all" />
+
+	<link rel="stylesheet" href="/styles/navigation--clt_16_06_014-1466020978.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/styles/styles--clt_16_06_014-1466020978.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/styles/print--clt_16_06_014-1466020978.css" type="text/css" media="print" />
+	
+    <link rel="stylesheet" href="/shared/css/layout/_bundlebar--clt_16_06_014-1466020978.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/shared/css/layout/_login--clt_16_06_014-1466020978.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/shared/css/layout/_footer--clt_16_06_014-1466020978.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/shared/css/layout/_grid--clt_16_06_014-1466020978.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/shared/css/base/_forms--clt_16_06_014-1466020978.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/shared/css/base/_icons--clt_16_06_014-1466020978.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/shared/css/modules/_assign--clt_16_06_014-1466020978.css" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/shared/css/lightwindow--clt_16_06_014-1466020978.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="/shared/js/swfobject_2--clt_16_06_014-1466020978.js"></script>
+    <script type="text/javascript" src="/shared/js/prototype--clt_16_06_014-1466020978.js"></script>
+    <script type="text/javascript" src="/shared/js/scriptaculous/scriptaculous--clt_16_06_014-1466020978.js"></script>
+    <script type="text/javascript" src="/shared/js/jquery-1.9.1.min--clt_16_06_014-1466020978.js"></script>
+    <script type="text/javascript" src="/shared/js/jquery-ui-1.10.3/ui/jquery-ui--clt_16_06_014-1466020978.js"></script>
+    <script type="text/javascript">
+        var $j = jQuery.noConflict();
+    </script>
+    <script type="text/javascript" src="/shared/js/bannercontroller--clt_16_06_014-1466020978.js"></script>
+    <script type="text/javascript" src="/shared/js/popoutcontroller--clt_16_06_014-1466020978.js"></script>        
+    <script type="text/javascript" src="/shared/js/scroller--clt_16_06_014-1466020978.js"></script>
+    <script type="text/javascript" src="/js/main--clt_16_06_014-1466020978.js"></script>    
+    <script type="text/javascript" src="/shared/js/common--clt_16_06_014-1466020978.js"></script>      	
+    <script type="text/javascript" src="/shared/js/lightwindow--clt_16_06_014-1466020978.js"></script>
+    <script type="text/javascript" src="/shared/js/commonUtils--clt_16_06_014-1466020978.js"></script>
+
+    <script type="text/javascript" src="/shared/js/infiniteScroller--clt_16_06_014-1466020978.js"></script>
+    <script type="text/javascript" src="/shared/js/popoutmenu--clt_16_06_014-1466020978.js"></script>
+	<script type="text/javascript" src="/shared/js/jquery.accordion-1.2.2.source--clt_16_06_014-1466020978.js"></script>
+    
+    <script type="text/javascript">
+    	var bookPopout = new HorizontalPopoutController({
+    		ajaxURI : '/book-tip.php', 	
+    		cssSelector : '.bookPopout', 	
+    		clearActiveStatusOnHide : true,
+    		arrowClassName : 'popout-arrow',
+    		topOffset: -42,	    		 		
+    		arrowMarginTop : 12,
+    		arrowMarginBottom : 14,
+    		enableEffects : true,
+    		disableClickOnTouchDevice: true
+    	});
+
+    	var addResourceToFolderPopout = new VerticalPopoutController({
+    		ajaxURI : '/myzone/folder-resource-popout.php',
+    		arrowClassName : 'arrow',
+    		arrowMarginLeft : 12,
+    		arrowMarginRight : 12,
+    		popoutDelay : 0,
+    		padding : 0,
+    		generatedPopoutClassName : 'fileCabinetPopOut',
+    		enableEffects : true,
+    		enableOverlay : true,
+    		removeOnClose : true    		
+    	});
+
+    	    	
+    	var aboutRazMenu = new PopoutMenu({
+    		menuParentElementId: 'aboutRAZ',
+    		menuContainerId: 'aboutRazMenuContainer'
+    	});
+    	    	var myZoneMenu = new PopoutMenu({
+    		menuParentElementId: 'myZone',
+    		menuContainerId: 'myZoneMenuContainer'
+    	});
+		    	var resourcesMenu = new PopoutMenu({
+    		menuParentElementId: 'resourcesNav',
+    		menuContainerId: 'resourcesMenuContainer',	
+    		enableSubcategorySupport: true,
+    		menuCategoryListCSSSelector: 'div#resourcesMenuContainer li.category',
+    		menuCategoryCSSSelector: 'li.category'
+    	});
+    	var manageStudentMenu = new PopoutMenu({
+    		menuParentElementId: 'classroomNav2',
+    		menuContainerId: 'classroomMenuContainer'	
+    	});
+    	var teacherCornerMenu = new PopoutMenu({
+    		menuParentElementId: 'teacherCornerNav',
+    		menuContainerId: 'teacherCornerMenuContainer'
+    	});
+
+	</script>
+	<link rel="stylesheet" type="text/css" href="/styles/member-home--clt_16_06_014-1466020978.css"/>			<style>
+			#topNav ul#topNavUL li.main div.dropdown_resources li a.subMain { line-height: 36px; }
+			#topNav ul#topNavUL li.main div.dropdown_2columns { height: 330px; }
+		</style>
+			
+            <script type="text/javascript">
+        try {
+		  		var _gaq = _gaq || [];
+		  		_gaq.push(['_setAccount',  'UA-6523470-43']);
+		  		_gaq.push(['_setDomainName', 'www.readinga-z.com']);
+		  		_gaq.push(['_setAllowLinker', true]);
+		  		_gaq.push(['_trackPageview']);
+
+		  		_gaq.push(['b._setAccount', 'UA-6523470-1']);
+		  		_gaq.push(['b._setDomainName', '.readinga-z.com']);
+		  		_gaq.push(['b._trackPageview']);
+
+		  		(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		         })();
+
+        		document.observe("dom:loaded", function() {
+        			$$('a[href^="/subscribe"]', 'a[href^="/order"]' , 'a[href^="/auth/federate.php"]', 'a[href*="/main/MyAccount"]', 'a[href*="/accountsweb/sss/"]','a[href$="Trial"]', 'a[href*="/special/trial/"]', 'a[href*="/lazsite"]', 'a[href$="ReadingSolution"]').invoke('observe', 'click', function(event) {
+        				_gaq.push(['_link', this.href]);
+        				Event.stop(event);
+        			});
+        		});
+			} catch(err) {}
+        </script>    <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4027783"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script></head>
+<body >
+<script type="text/javascript">
+  function doLogin(path) {
+    scroll(0, 0);
+    enableLogin();
+    $('page_after_login').value = path;
+  }
+
+
+  function enableLogin() {
+      $j('#loginOverlay').css({ 'height': $j(document).height()+'px' }).toggle();
+      $j('#memberlogin-link').toggleClass( "active" );
+      $j('#loginFormDiv').toggle();
+      var $username = $j('#username');
+      ($username.val() ? $j('#password') : $username).focus();
+      return false;
+  }
+
+  function disableLogin() {
+      $j('#loginFormDiv,#loginOverlay').hide();
+      $j('#memberlogin-link').removeClass( "active" );
+      return false;
+  }
+
+</script>
+
+<!-- Order Now button handler -->
+<script type="text/javascript">
+    var orderNow = {
+        coupon : '',
+
+        getMemberCertificateFromCookie : function (customGaq) {
+            //call when user presses OrderNow button to see if the member previously logged in on this or another site.
+            $j.ajax({
+                type: 'GET',
+                url: orderNow.lazMemberTargetUrl,
+                crossDomain: true,
+                xhrFields: {
+                    withCredentials: true
+                },
+                dataType: 'json',
+                success: function (responseData, textStatus, jqXHR) {
+                    if (responseData.failed) {
+                        console.log("member check: " + responseData.failed);
+                        window.location.assign(orderNow.getSubscribeNewBaseUrl()+customGaq+orderNow.coupon);
+                    } else {
+                        console.log('GET member check succeeded');
+                        if(responseData.certificate) {
+                            //redirect since system does not yet support cross origin posts to accountsweb
+                            var location = orderNow.getSubscribeNewBaseUrl() + orderNow.coupon + "&certificate=" + responseData.certificate + customGaq;
+                            //console announces location as navigation target
+                            window.location.assign(location);
+                        } else {
+                            console.log('certificate was null');
+                            window.location.assign(orderNow.getSubscribeNewBaseUrl()+customGaq+orderNow.coupon);
+                        }
+                    }
+                },
+                error: function (responseData, textStatus, errorThrown) {
+                    console.log('GET failed.' + textStatus);
+                    window.location.assign(orderNow.getSubscribeNewBaseUrl()+customGaq+orderNow.coupon);
+                }
+            });
+            return true;
+        },
+        buttonClick : function(customGaq) {  //different buttons can set different campaigns
+            if(!customGaq) {
+                customGaq = ''; //'&something=...'
+            }
+            orderNow.init();
+            orderNow.getMemberCertificateFromCookie(customGaq);
+        },
+        getSubscribeBaseUrl : function() {
+            return orderNow.accountsWebserver + "/accountsweb/sss/orderLogin.do?siteName=" + orderNow.siteName;
+        },
+        getSubscribeNewBaseUrl : function() {
+            return orderNow.accountsWebserver + "/accountsweb/sss/orderLogin.do?siteName=" + orderNow.siteName;
+        },
+        setSiteName : function(site) {
+            orderNow.siteName = site;
+        },
+        setAccountsWebserver : function(accountsWebserver) {
+            orderNow.accountsWebserver = accountsWebserver;
+        },
+        setLazMemberTargetUrl : function(lazMemberTargetUrl) {
+            orderNow.lazMemberTargetUrl = lazMemberTargetUrl;
+        },
+        init : function() {
+            var div = document.getElementById("orderNowInit");
+            var initData = JSON.parse(div.textContent);
+            orderNow.setSiteName(initData["siteName"]);
+            orderNow.setAccountsWebserver(initData["accountsWebserver"]);
+            orderNow.setLazMemberTargetUrl(initData["lazUrl"]);
+        }
+    };
+    //continue to use the prior onclick function call
+    var orderNowClick = function(customGaq) {
+        orderNow.buttonClick(customGaq)
+    }
+</script>
+
+<div id="orderNowInit" style="display: none;">{"siteName":"raz","lazUrl":"https:\/\/www.learninga-z.com\/cors\/v1\/memberCert","accountsWebserver":"https:\/\/accounts.learninga-z.com"}</div>
+
+
+<div id="bundlebar">
+	<div id="bundlebar-inner">
+		<a href="https://www.learninga-z.com"><img src="/shared/images/logos/logo-learninga-z.svg" alt="Learning A-Z" class="logo-bb logo-laz floatL"></a>
+		<ul class="list-sites floatL">
+				<li class="active"><a href="/"><img src="/shared/images/logos/logo-readinga-z.svg" alt="Reading A-Z" class="logo-bb logo-raz"></a></li>
+
+				<li class="inactive"><a href="/auth/go.php?site=rk"><img src="/shared/images/logos/logo-raz-kids.svg" alt="Raz Kids" class="logo-bb logo-kids"></a></li>
+				<li class="inactive"><a href="/auth/go.php?site=headsprout"><img src="/shared/images/logos/logo-headsprout.svg" alt="Headsprout" class="logo-bb logo-hs"></a></li>
+
+				<li class="inactive"><a href="https://www.sciencea-z.com"><img src="/shared/images/logos/logo-sciencea-z.svg" alt="Science A-Z" class="logo-bb logo-saz"></a></li>
+				<li class="inactive"><a href="https://www.writinga-z.com"><img src="/shared/images/logos/logo-writinga-z.svg" alt="Writing A-Z" class="logo-bb logo-waz"></a></li>
+				<li class="inactive"><a href="https://www.vocabularya-z.com"><img src="/shared/images/logos/logo-vocabularya-z.svg" alt="Vocabulary A-Z" class="logo-bb logo-vaz"></a></li>
+				<li class="inactive"><a href="/auth/go.php?site=tr"><img src="/shared/images/logos/logo-readytesta-z.svg" alt="ReadyTest A-Z" class="logo-bb logo-rt"></a></li>
+                <li class="inactive"><a href="https://www.kidsa-z.com"><img src="/shared/images/logos/logo-kidsa-z.svg" alt="Kids A-Z" class="logo-bb logo-kaz"></a></li>
+		</ul>
+		      <script type="text/javascript">
+        var userMenuMenu = new PopoutMenu({
+            menuParentElementId: 'userMenu',
+            menuContainerId: 'userMenuContainer'
+        });
+		</script>
+		            <ul class="globalnav"><li class="order" style="right: 498px; top: 58px;" >14 days left in your Reading A-Z trial.<br /><a class="btn btn-prominent btn-sm" href="/subscribe" title="Order Now"><span class="arrowRight"></span>Order Now</a></li></ul>
+        
+            <ul class="userinfoLoggedIn">
+                <li id="userMenu">
+                	<a href="#" onclick="return false;" class="user"><strong>pa paya</strong><br />
+                	<span class="small">phonics221</span></a>
+                	<div style="display: none;" id="userMenuContainer" class="dropDownMenu">
+			          <ul>
+			            <li><a href="/auth/federate.php">My Account</a></li>
+			            <li><a href="/auth/logout.php">Sign Out</a></li>
+			          </ul>
+			        </div>
+                </li>
+            </ul>
+      	</div>
+</div>
+
+<div id="wrapper">
+	<div id="wrapper-inner">
+        <div id="header">
+	<a href="/" id="logo"><img src="/images/logo-reading-a-z92013.png" alt="Reading A-Z" /></a>
+	<ul class="navLinks globalNav">
+	<li class="main" id="aboutRAZ"><a href="/about-readinga-z/" class="heading"><span class="yourRaz">About Reading A-Z</span></a>
+		<div id="aboutRazMenuContainer" style="display:none"><ul class="globalNavMain">
+			<!-- <li class="nopage"><a href="/about-readinga-z/why-readinga-z/">Why Reading A-Z?</a> -->
+			<li><a href="/about-readinga-z/testimonials/">Testimonials</a></li>
+			<li><a href="/about-readinga-z/contributors/">Contributors</a></li>
+			<!-- <li class="nopage"><a href="/about-readinga-z/faq/">FAQ</a> -->
+			<li><a href="/about-readinga-z/learninga-z-sites/">Learning A-Z Sites</a></li>
+			<li><a href="http://blog.readinga-z.com/bobs_blog/">Bob's Blog</a>
+		</ul></div>
+	</li>
+	
+		<li class="main" id="myZone"><a href="/myzone/" class="heading"><span class="yourRaz">My Zone</span></a>
+			<div id="myZoneMenuContainer" style="display:none"><ul class="globalNavMain">
+					<li><a href="/myzone/profile/">My Profile</a></li>
+					<li><a href="/myzone/filecabinet/">My File Cabinet</a></li>
+					<li><a href="/myzone/history/">My History</a></li>
+          			</ul></div>
+		</li>
+</ul>
+</div>
+
+<div id="topNav">
+	<ul id="topNavUL">
+		<li class="main" id="resourcesNav"><a href="#" class="main" id="resourcesNavLink" onclick="return false;"><span><span class="arrowDown"></span>Resources</span><span class="hoverExtension"></span></a>
+			<div id="resourcesMenuContainer" class="dropdown_resources" style="display:none">
+			<ul class="resourceMainCategory">
+				<li id="booksNav" class="category"><a href="/books/" class="subMain" id="booksNavLink"><span>Books</span></a>
+					<div class="dropdown_2columns">
+						<div class="column1">
+							<ul class="navLinks">
+	<li><a href="/books/" class="heading">Books</a>
+		<ul>
+			<li><a href="/books/leveled-books/"
+				class="subHeading2">
+					<strong>Leveled Books</strong> <span>Guided Reading</span>
+			</a></li>
+			<li><a href="/books/serial-books/"
+				class="subHeading2">
+					<strong>Serial Books</strong>
+			</a></li>
+		    			<li><a href="/books/themed-nonfiction-series/"
+				class="subHeading2">
+					<strong>Themed Nonfiction Series</strong>
+			</a></li>
+						<li><a href="/books/genre-collections/"
+				class="subHeading2">
+					<strong>Genre Collections</strong>
+			</a></li>
+			<li><a href="/books/alphabet-books/"
+				class="subHeading2">
+					<strong>Alphabet Books</strong>
+			</a></li>
+			<li><a href="/books/read-aloud-books/"
+				class="subHeading2">
+					<strong>Read-Aloud Books</strong>
+			</a></li>
+			<li><a href="/books/sound-symbol-books/"
+				class="subHeading2">
+					<strong>Sound/Symbol Books</strong>
+			</a></li>
+			<li><a href="/books/decodable-books/"
+				class="subHeading2">
+					<strong>Decodable Books</strong>
+			</a></li>
+			<li><a href="/books/high-frequency-word-books/"
+				class="subHeading2">
+					<strong>High-Frequency Word Books</strong>
+			</a></li>
+			<li><a href="/books/shared-reading/"
+				class="subHeading2">
+					<strong>Shared Reading</strong>
+			</a></li>
+			<li><a href="/books/vocabulary-books/"
+				class="subHeading2">
+					<strong>Vocabulary Books</strong>
+			</a></li>
+			<li><a href="/books/poetry-books/"
+				class="subHeading2">
+					<strong>Poetry Books &amp; Nursery Rhymes</strong>
+			</a></li>
+			<li><a href="/books/comic-books/"
+				class="subHeading2">
+					<strong>Graphic, Comic, &amp; Humor Books</strong>
+			</a></li>
+		</ul></li>
+</ul>						</div>
+						<div class="column2">
+							<ul class="navLinks">
+	<li><a href="/book-related-resources/" class="heading">Book-Related Resources</a>
+	<ul>
+		<li><a href="/book-related-resources/literature-circles/" class="subHeading2"><strong>Literature Circles</strong></a></li>
+		<li ><a href="/book-related-resources/theme-news-packs/" class="subHeading"><strong>Theme &amp; News Packs</strong></a>
+		<div class="notShown">
+			<ul>
+				<li ><a href="/book-related-resources/theme-news-packs/animals-on-a-farm/">Animals on a Farm</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/floods-tornados/">Floods &amp; Tornados</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/haiti-earthquake/">Haiti Earthquake</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/hurricanes/">Hurricane Sandy</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/influenza/">Influenza</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/japan-earthquake-tsunami/">Japan Earthquake &amp; Tsunami</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/native-american/">Native American</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/oil-rewards-risks/">Oil: Rewards &amp; Risks</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/olympic-sports-stars/">Olympic Sports Stars</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/solar-system/">The Solar System</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/summer-olympics/">2012 Summer Olympic Games</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/us-presidency-election-inauguration/">U.S. Presidency from Election to Inauguration</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/winter-olympics/">2014 Winter Olympic Games</a></li>
+				<li ><a href="/book-related-resources/theme-news-packs/winter-snapshots/">Winter Snapshots</a></li>
+			</ul>
+		</div>
+		</li>
+		<li><a href="/book-related-resources/trade-book-lessons/" class="subHeading2"><strong>Trade Book Lessons</strong></a></li>
+		<li><a href="/book-related-resources/paired-books/" class="subHeading2"><strong>Paired Books</strong></a></li>
+		<!-- <li class="nopage"><a href="/book-related-resources/intertextual-reading-packs/" class="subHeading2"><strong>Intertextual Reading Packs</strong></a></li> -->
+	</ul>
+	</li>
+</ul>							
+<ul class="navLinks">
+	<li><a href="/translations/" class="heading">Translations</a>
+	<ul>
+		<li id="group1" ><a href="/translations/spanish/books/" class="subHeading"><strong>Spanish</strong></a>
+		<div class="notShown">
+			<ul>
+				<li ><a href="/translations/spanish/leveled-books/">Leveled Books</a></li>
+				<li ><a href="/translations/spanish/alphabet-books/">Alphabet Books</a></li>
+				<li ><a href="/translations/spanish/high-frequency-word-books/">High-Frequency Word Books</a></li>
+				
+				<li ><a href="/translations/spanish/math-books/">Math Books</a></li>
+				<li ><a href="/translations/spanish/letter-formation-practice-sheets/">Letter Formation Practice Sheets</a></li>
+				<li ><a href="/translations/spanish/serial-books/">Serial Books</a></li>
+			</ul>
+		</div>
+		</li>
+		<li id="group2" ><a href="/translations/french/books/" class="subHeading"><strong>French</strong></a>
+		<div class="notShown">
+			<ul>
+				<li ><a href="/translations/french/leveled-books/">Leveled Books</a></li>
+				<li ><a href="/translations/french/alphabet-books/">Alphabet Books</a></li>
+				<li ><a href="/translations/french/high-frequency-word-books/">High-Frequency Word Books</a></li>
+				<li ><a href="/translations/french/serial-books/">Serial Books</a></li>
+			</ul>
+		</div>
+		</li>
+		<li id="group3" ><a href="/translations/british-english/books/" class="subHeading"><strong>British English</strong></a>
+		<div class="notShown">
+			<ul>
+				<li ><a href="/translations/british-english/leveled-books/">Leveled Books</a></li>
+				<li ><a href="/translations/british-english/serial-books/">Serial Books</a></li>
+			</ul>
+		</div>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+						</div>
+						<div class="column3">
+							<ul class="navLinks">
+	<li><a href="/content-area-reading/" class="heading">Content Area Reading</a>
+	<ul>
+		<li><a href="/content-area-reading/art-music/" class="subHeading2"><strong>Art &amp; Music</strong></a></li>
+		<li><a href="/content-area-reading/math/" class="subHeading2"><strong>Math</strong></a></li>
+		<li><a href="/content-area-reading/science/" class="subHeading2"><strong>Science</strong></a></li>
+		<li><a href="/content-area-reading/social-stories/" class="subHeading2"><strong>Social Stories</strong></a></li>
+		<li><a href="/content-area-reading/social-studies/" class="subHeading2"><strong>Social Studies</strong></a></li>
+		<!-- <li class="ell"><a href="/content-area-reading/social-instructional-language/" class="subHeading2"><strong>ELL Social &amp; Instructional Language</strong></a></li> -->
+		<!-- <li><strong class="subheading">Language Arts</strong></li> -->
+		<!-- <li class="ell"><a href="/content-area-reading/language-skills/" class="subHeading2"><strong>ELL Language Skills</strong></a></li> -->
+	</ul>
+	</li>
+</ul>						</div>
+						<a href="/technology/ebooks/" class="shoutBox">eBooks available for your students! <span class="learnMore">Learn More<span class="arrowRight"></span></span></a>
+					</div>
+				</li>
+				<li id="rSkillsNav" class="category"><a href="#" class="subMain nopage"><span>Key Reading Skills</span></a>
+					<div class="dropdown_2columns">
+						<div class="column1">
+								<ul class="navLinks">
+		<li><a href="/fluency/" class="heading">Fluency</a>
+		<ul>
+							<li><a href="/fluency/fluency-practice-passages/" class="subHeading2"><strong>Fluency Practice Passages</strong></a></li>
+							<li><a href="/fluency/readers-theater-scripts/" class="subHeading2"><strong>Reader's Theater Scripts</strong></a></li>
+					</ul>
+		</li>
+	</ul>
+							<ul class="navLinks">
+	<li><a href="/comprehension/" class="heading">Comprehension</a>
+	<ul>
+		<li><a href="/comprehension/reading-graphic-organizers/" class="subHeading2"><strong>Reading Graphic Organizers</strong></a></li>
+		<li><a href="/comprehension/close-reading-packs/" class="subHeading2"><strong>Close Reading Packs</strong></a></li>
+		<li><a href="/comprehension/comprehension-skill-packs/" class="subHeading2"><strong>Comprehension Skill Packs</strong></a></li>
+		<li><a href="/comprehension/visual-devices/" class="subHeading2"><strong>Visual Devices</strong></a></li>
+	</ul>
+	</li>
+</ul>							<ul class="navLinks">
+	<li><a href="/writing/" class="heading">Writing</a>
+	<ul>
+		<li><a href="/writing/poetry-writing-lessons/" class="subHeading2"><strong>Poetry Writing Lessons</strong></a></li>
+		<li><a href="/writing/writers-response/" class="subHeading2"><strong>Writer's Response</strong></a></li>
+	</ul>
+	</li>
+</ul>						</div>
+						<div class="column2">
+							
+	<ul class="navLinks">
+		<li><a href="/vocabulary/" class="heading">Vocabulary</a>
+		<ul>
+							<li><a href="/vocabulary/vocabulary-graphic-organizers/" class="longText subHeading2"><strong>Vocabulary Graphic Organizers</strong></a></li>
+							<li><a href="/vocabulary/word-sorts/" class="longText subHeading2"><strong>Word Sorts</strong></a></li>
+					</ul>
+		</li>
+	</ul>
+	<ul class="navLinks externalLinks">
+		<li><a href="/vocab.php?url=/vocabweb/home.do" class="heading">At VocabularyA-Z.com</a>
+		<ul>
+							<li><a href="/vocab.php?url=/vocabweb/frontpage.do" class=""><strong>Custom Word List Lesson Generator</strong></a></li>
+							<li><a href="/vocab.php?url=/vocabweb/razpremadelessons.do" class=""><strong>Leveled Book Vocabulary Lessons</strong></a></li>
+							<li><a href="/vocab.php?url=/vocabweb/frontpage.do?topicId=1813" class=""><strong>Academic Vocabulary Lessons</strong></a></li>
+							<li><a href="/vocab.php?url=/vocabweb/premadeLessonLanding.do" class=""><strong>Reading Series Vocabulary Lessons</strong></a></li>
+					</ul>
+		</li>
+	</ul>
+						</div>
+					</div>
+				</li>
+				<li id="fSkillsNav" class="category"><a href="#" class="subMain nopage"><span>Foundational Skills</span></a>
+					<div class="dropdown_2columns">
+						<div class="column1">
+								<ul class="navLinks">
+		<li><a href="/alphabet/" class="heading">Alphabet</a>
+		<ul>
+							<li><a href="/books/alphabet-books/" class="longText subHeading2"><strong>Alphabet Books</strong></a></li>
+							<li><a href="/alphabet/letter-formation-practice-sheets/" class="longText subHeading2"><strong>Letter Formation Practice Sheets</strong></a></li>
+							<li><a href="/alphabet/alphabet-chants/" class="longText subHeading2"><strong>Alphabet Chants</strong></a></li>
+					</ul>
+		</li>
+	</ul>
+							<ul class="navLinks">
+	<li><a href="/phonological-awareness/" class="heading">Phonological Awareness</a>
+	<ul>
+		<li><a href="/phonological-awareness/phonological-awareness-lessons/" class="longText subHeading2"><strong>Phonological Awareness Lessons</strong></a></li>
+	</ul>
+	</li>
+</ul>								<ul class="navLinks">
+		<li><a href="/phonics/" class="heading">Phonics</a>
+		<ul>
+							<li><a href="/books/decodable-books/" class="subHeading2 longText"><strong>Decodable Books &amp; Phonics Lessons</strong></a></li>
+							<li><a href="/books/read-aloud-books/" class="subHeading2 "><strong>Read-Aloud Books</strong></a></li>
+							<li><a href="/books/sound-symbol-books/" class="subHeading2 "><strong>Sound/Symbol Books</strong></a></li>
+							<li><a href="/phonics/phonogram-flashcards/" class="subHeading2 "><strong>Phonogram Flashcards</strong></a></li>
+					</ul>
+		</li>
+	</ul>
+
+
+						</div>
+						<div class="column2">
+							<ul class="navLinks">
+	<li><a href="/high-frequency-words/" class="heading">High-Frequency Words</a>
+	<ul>
+		<li><a href="/books/high-frequency-word-books/" class="subHeading2"><strong>High-Frequency Word Books</strong></a></li>
+		<li><a href="/high-frequency-words/most-common-words-flashcards/" class="longText subHeading2"><strong>Most Common Words Flashcards</strong></a></li>
+	</ul>
+	</li>
+</ul>								<ul class="navLinks">
+		<li><a href="/fluency/" class="heading">Fluency</a>
+		<ul>
+							<li><a href="/fluency/fluency-practice-passages/" class="subHeading2"><strong>Fluency Practice Passages</strong></a></li>
+							<li><a href="/fluency/readers-theater-scripts/" class="subHeading2"><strong>Reader's Theater Scripts</strong></a></li>
+					</ul>
+		</li>
+	</ul>
+						</div>
+						<div class="column3">
+								<ul class="navLinks">
+		<li><a href="/assessments/" class="heading">Assessments</a>
+		<ul>
+										<li class=""><a href="/assessments/benchmark-passages/" class="longText subHeading2"><strong><strong>Benchmark Passages</strong> <span> &amp; Running Records</span></strong></a></li>
+							<li class=""><a href="/assessments/benchmark-books/" class="longText subHeading2"><strong><strong>Benchmark Books</strong> <span> &amp; Running Records</span></strong></a></li>
+							<li class=""><a href="/assessments/alphabet-letter-naming/" class="longText subHeading2"><strong><strong>Alphabet Letter Naming</strong></strong></a></li>
+							<li class=""><a href="/assessments/phonological-awareness-assessment/" class="longText subHeading2"><strong><strong>Phonological Awareness Assessment</strong></strong></a></li>
+							<li class=""><a href="/assessments/phonics-assessment/" class="longText subHeading2"><strong><strong>Phonics Assessment</strong></strong></a></li>
+							<li class=""><a href="/assessments/high-frequency-words-assessment/" class="longText subHeading2"><strong><strong>High-Frequency Words Assessment</strong></strong></a></li>
+							<li class=""><a href="/assessments/fluency-timed-reading/" class="longText subHeading2"><strong><strong>Fluency Timed Reading</strong></strong></a></li>
+							<li class=""><a href="/assessments/retelling-rubrics/" class="longText subHeading2"><strong><strong>Retelling Rubrics</strong></strong></a></li>
+					</ul>
+		</li>
+	</ul>
+						</div>
+					</div>
+				</li>
+				<li id="commoncoreNav" class="category"><a href="/commoncore/" class="subMain"><span style="line-height: 18px;">Common Core / <br />21st Century</span></a>
+					<div class="dropdown_2columns">
+						<div class="column1">
+							
+<ul class="navLinks">
+	<li><a href="/commoncore/" class="heading">Common Core</a>
+	<ul>
+		<li><a href="/commoncore/common-core-lesson-supplement/" class="subHeading2 longText"><strong>Leveled Book Common Core Lesson Supplements</strong></a></li>
+		<li><a href="/commoncore/informational-text/" class="subHeading2"><strong>Informational Texts</strong></a></li>
+		<li><a href="/comprehension/close-reading-packs/" class="subHeading2"><strong>Close Reading Packs</strong></a></li>
+		<li><a href="/comprehension/comprehension-skill-packs/" class="subHeading2"><strong>Comprehension Skill Packs</strong></a></li>
+		<li><a href="/comprehension/visual-devices/" class="subHeading2"><strong>Visual Devices</strong></a></li>
+		<li><a href="/book-related-resources/paired-books/" class="subHeading2"><strong>Paired Books</strong></a></li>
+		<li><a href="/project-based-learning/project-based-learning-packs/" class=" longText subHeading2"><strong>Project-Based Learning Packs</strong></span></a></li>		<!-- <li class="nopage"><a href="/book-related-resources/intertextual-reading-packs/" class="subHeading2"><strong>Intertextual Reading Packs</strong></a></li> -->
+	</ul>
+	</li>
+</ul>						</div>
+						<div class="column2">
+							<ul class="navLinks">
+	<li><a href="/content-area-reading/" class="heading">Content Area Reading</a>
+	<ul>
+		<li><a href="/content-area-reading/art-music/" class="subHeading2"><strong>Art &amp; Music</strong></a></li>
+		<li><a href="/content-area-reading/math/" class="subHeading2"><strong>Math</strong></a></li>
+		<li><a href="/content-area-reading/science/" class="subHeading2"><strong>Science</strong></a></li>
+		<li><a href="/content-area-reading/social-stories/" class="subHeading2"><strong>Social Stories</strong></a></li>
+		<li><a href="/content-area-reading/social-studies/" class="subHeading2"><strong>Social Studies</strong></a></li>
+		<!-- <li class="ell"><a href="/content-area-reading/social-instructional-language/" class="subHeading2"><strong>ELL Social &amp; Instructional Language</strong></a></li> -->
+		<!-- <li><strong class="subheading">Language Arts</strong></li> -->
+		<!-- <li class="ell"><a href="/content-area-reading/language-skills/" class="subHeading2"><strong>ELL Language Skills</strong></a></li> -->
+	</ul>
+	</li>
+</ul>						</div>
+					</div>
+				</li>
+				<li id="assessmentNav" class="category"><a href="/assessments/" class="subMain"><span>Assessments</span></a>
+					<div class="dropdown_2columns">
+						<div class="column1">
+								<ul class="navLinks">
+		<li><a href="/assessments/" class="heading">Assessments</a>
+		<ul>
+										<li class=""><a href="/assessments/benchmark-passages/" class="longText subHeading2"><strong><strong>Benchmark Passages</strong> <span> &amp; Running Records</span></strong></a></li>
+							<li class=""><a href="/assessments/benchmark-books/" class="longText subHeading2"><strong><strong>Benchmark Books</strong> <span> &amp; Running Records</span></strong></a></li>
+							<li class=""><a href="/assessments/alphabet-letter-naming/" class="longText subHeading2"><strong><strong>Alphabet Letter Naming</strong></strong></a></li>
+							<li class=""><a href="/assessments/phonological-awareness-assessment/" class="longText subHeading2"><strong><strong>Phonological Awareness Assessment</strong></strong></a></li>
+							<li class=""><a href="/assessments/phonics-assessment/" class="longText subHeading2"><strong><strong>Phonics Assessment</strong></strong></a></li>
+							<li class=""><a href="/assessments/high-frequency-words-assessment/" class="longText subHeading2"><strong><strong>High-Frequency Words Assessment</strong></strong></a></li>
+							<li class=""><a href="/assessments/fluency-timed-reading/" class="longText subHeading2"><strong><strong>Fluency Timed Reading</strong></strong></a></li>
+							<li class=""><a href="/assessments/retelling-rubrics/" class="longText subHeading2"><strong><strong>Retelling Rubrics</strong></strong></a></li>
+					</ul>
+		</li>
+	</ul>
+						</div>
+					</div>
+				</li>
+								<li id="specialtyNav" class="category noELL"><a href="#" class="subMain nopage"><span>ELL &amp; Bilingual</span></a>
+					<div class="dropdown_2columns">
+						<div class="column1">
+							<ul class="navLinks">
+	<li><a href="/ell/" class="heading">English Language Learners</a>
+		<ul>
+		<li><a href="/ell/raz-support-for-ell/" class="subHeading2"><strong>Reading A-Z Support for ELLs</strong></a></li>
+			</ul>
+		</li>
+</ul>
+<ul class="navLinks addOn">
+	<li><a href="/ell/enhanced-ell-solution/" class="heading">Enhanced ELL Reading Solution</a>
+	<ul>
+		<li><a href="/ell/ell-leveled-reader-packs/" class="subHeading2"><strong>ELL Leveled Reader Packs</strong></a></li>
+		<li><a href="/ell/ell-content-picture-packs/" class="subHeading2"><strong>ELL Content Picture Packs</strong></a></li>
+		<li><a href="/ell/ell-vocabulary-books/" class="subHeading2"><strong>ELL Vocabulary Books</strong></a></li>
+		<li><a href="/ell/ell-assessments/" class="subHeading2"><strong>ELL Assessments</strong></a></li>
+		<li><a href="/ell/ell-language-skill-packs/" class="subHeading2"><strong>ELL Language Skill Packs</strong></a></li>
+		<li><a href="/ell/ell-language-proficiency-alignment/" class="subHeading2 longText"><strong>Language Proficiency Alignment</strong></a></li>
+		<li><a href="/ell/ell-research/" class="subHeading2"><strong>Research & Contributors</strong></a></li>
+	</ul>
+	</li>
+</ul>
+						</div>
+						<div class="column2">
+							
+<ul class="navLinks">
+	<li><a href="/translations/" class="heading">Translations</a>
+	<ul>
+		<li id="group1" ><a href="/translations/spanish/books/" class="subHeading"><strong>Spanish</strong></a>
+		<div class="notShown">
+			<ul>
+				<li ><a href="/translations/spanish/leveled-books/">Leveled Books</a></li>
+				<li ><a href="/translations/spanish/alphabet-books/">Alphabet Books</a></li>
+				<li ><a href="/translations/spanish/high-frequency-word-books/">High-Frequency Word Books</a></li>
+				
+				<li ><a href="/translations/spanish/math-books/">Math Books</a></li>
+				<li ><a href="/translations/spanish/letter-formation-practice-sheets/">Letter Formation Practice Sheets</a></li>
+				<li ><a href="/translations/spanish/serial-books/">Serial Books</a></li>
+			</ul>
+		</div>
+		</li>
+		<li id="group2" ><a href="/translations/french/books/" class="subHeading"><strong>French</strong></a>
+		<div class="notShown">
+			<ul>
+				<li ><a href="/translations/french/leveled-books/">Leveled Books</a></li>
+				<li ><a href="/translations/french/alphabet-books/">Alphabet Books</a></li>
+				<li ><a href="/translations/french/high-frequency-word-books/">High-Frequency Word Books</a></li>
+				<li ><a href="/translations/french/serial-books/">Serial Books</a></li>
+			</ul>
+		</div>
+		</li>
+		<li id="group3" ><a href="/translations/british-english/books/" class="subHeading"><strong>British English</strong></a>
+		<div class="notShown">
+			<ul>
+				<li ><a href="/translations/british-english/leveled-books/">Leveled Books</a></li>
+				<li ><a href="/translations/british-english/serial-books/">Serial Books</a></li>
+			</ul>
+		</div>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+						</div>
+													<a href="/ell/enhanced-ell-solution/" class="shoutBox">Upgrade to the Enhanced ELL Reading Solution <span class="learnMore">Learn More<span class="arrowRight"></span></span></a>
+											</div>
+				</li>
+								<li id="instructionalUses" class="last category"><a href="#" class="subMain nopage"><span>Instructional Uses</span></a>
+					<div class="dropdown_2columns">
+						<div class="column1">
+							<ul class="navLinks">
+	<li><a href="/intervention/" class="heading">Intervention</a>
+	<ul>
+		<li><a href="/intervention/response-to-intervention/" class="subHeading2"><strong>Response to Intervention</strong></a></li>
+		<li><a href="/intervention/special-education/" class="subHeading2"><strong>Special Education</strong></a></li>
+	</ul>
+	</li>
+</ul>							<ul class="navLinks">
+	<li><a href="/summer-school/" class="heading">Summer School</a>
+	<ul>
+		<li><a href="/summer-school/summer-school-theme-packs/" class="subHeading2"><strong>Summer School Theme Packs</strong></a></li>
+		<li><a href="/summer-school/summer-reading-contracts/" class="longText subHeading2"><strong>Summer Contracts &amp; Journals</strong></a></li>
+		<li><a href="/summer-school/summer-resources-additional/" class="subHeading2"><strong>Additional Summer Resources</strong></a></li>
+	</ul>
+	</li>
+</ul>							<ul class="navLinks">
+	<li><a href="/literacy-frameworks/" class="heading">Literacy Frameworks</a>
+		<ul>
+			<li><a href="/literacy-frameworks/balanced-literacy/"
+				class="subHeading2">
+					<strong>Balanced Literacy</strong>
+			</a></li>
+		</ul></li>
+</ul>							
+<ul class="navLinks">
+	<li><a href="/project-based-learning/" class="heading">Project-Based Learning</a>
+	<ul>
+		<li><a href="/project-based-learning/project-based-learning-packs/" class="longText subHeading2"><strong>Project-Based Learning Packs</strong></a></li>
+	
+	</ul>
+	</li>
+</ul>						</div>
+						<div class="column2">
+							<ul class="navLinks includedSecondaryHeadings">
+	<li><a href="/tutoring-mentoring-packs/" class="heading">Tutoring &amp; Mentoring Packs</a>
+	<ul class="instruction">
+		<li class="subHead">Instruction Packs</li>
+		<li><a href="/tutoring-mentoring-packs/alphabet-packs/" class="subHeading2"><strong>Alphabet Packs</strong></a></li>
+		<li><a href="/tutoring-mentoring-packs/phonological-awareness-packs/" class="subHeading2 longText"><strong>Phonological Awareness Packs</strong></a></li>
+		<li><a href="/tutoring-mentoring-packs/phonics-packs/" class="subHeading2"><strong>Phonics Packs</strong></a></li>
+		<li><a href="/tutoring-mentoring-packs/high-frequency-word-packs/" class="subHeading2"><strong>High-Frequency Word Packs</strong></a></li>
+		<li><a href="/tutoring-mentoring-packs/comprehension-packs/" class="subHeading2"><strong>Comprehension Packs</strong></a></li>
+		<li><a href="/tutoring-mentoring-packs/fluency-comprehension-packs/" class="subHeading2 longText"><strong>Fluency &amp; Comprehension Packs</strong></a></li>
+	</ul>
+	<ul class="support">
+		<li class="subHead">Additional Support</li>
+		<li><a href="/comprehension/reading-graphic-organizers/" class="subHeading2"><strong>Reading Graphic Organizers</strong></a></li>
+		<li><a href="/tutoring-mentoring-packs/forms-tools/" class="subHeading2"><strong>Forms &amp; Tools</strong></a></li>
+		<li><a href="/tutoring-mentoring-packs/game-packs/" class="subHeading2"><strong>Game Packs</strong></a></li>
+		<li><a href="/assessments/" class="subHeading2"><strong>Assessments</strong></a></li>
+	</ul>
+	</li>
+</ul>
+						</div>
+						<div class="column3">
+							<ul class="navLinks">
+    <li><a href="/learning-centers/" class="heading">Learning Centers<span class="new">New</span></a>
+        <ul>
+            <li><a href="/learning-centers/phonological-awareness-centers/" class="subHeading2"><strong>Phonological Awareness Centers</strong></a></li>
+            <li><a href="/learning-centers/phonics-centers/" class="subHeading2 longText"><strong>Phonics Centers</strong></a></li>
+            <li><a href="/learning-centers/grammar-mechanics-centers/" class="subHeading2"><strong>Grammar and Mechanics Centers</strong></a></li>
+            <li><a href="/learning-centers/word-work-centers/" class="subHeading2"><strong>Word Work Centers</strong></a></li>
+            <li><a href="/learning-centers/fluency-centers/" class="subHeading2"><strong>Fluency Centers</strong></a></li>
+            <li><a href="/learning-centers/writing-centers/" class="subHeading2 longText"><strong>Writing Centers</strong></a></li>
+        </ul>
+    </li>
+</ul>						</div>
+					</div>
+				</li>
+
+
+			</ul>
+			</div>
+		</li>
+		<li class="main" id="searchNav">
+			<input type="search" name="searchTerms" id="hsearchTerms" maxlength="50" value="" placeholder="Search Resources"/>
+			<script type="text/javascript">
+			$j(function() {
+			    $j("#hsearchTerms").autocomplete({
+			        source: "/search/ajax-search-suggest.html",
+			        dataType: "json",
+			        minLength: 1,
+			        delay: 100
+			    });
+			});
+		    </script>
+			<input type="button" value="Go" id="btn-search" onclick="sendSearch($F(hsearchTerms));"/>
+		</li>
+				      		<input type="hidden" name="cart_resource_count" id="cart_resource_count" value="0"/>
+				<li class="main" id="filecabinetNav">
+					<a href="/myzone/filecabinet/" class="main"><span id="CartNumber" class="total">0<span class="fileTop"></span></span>File Cabinet</a>
+				</li>
+	    		
+		<li class="main" id="classroomNav2"><a href="/manage-students/" class="main nopage"><span>Manage Students</span></a>
+			<div id="classroomMenuContainer" class="dropdown_resources" style="display:none">
+				<img src="/images/rk-logo.png" alt="Raz-Kids" style="padding-bottom: 7px;" /><br />
+				<strong>Manage students' reading activity and growth with Raz-Kids.</strong><br />
+				Reading A-Z and Raz-Kids work TOGETHER to create the perfect K-5 Reading Solution.<br />
+				<a href="/manage-students/" class="button">Learn more</a>
+			</div>
+		</li>
+
+				<li class="main" id="teacherCornerNav"><a href="/teacher-corner/" class="main"><span>Teacher Corner</span></a>
+			<div id="teacherCornerMenuContainer" class="dropdown_resources" style="display:none">
+				<div class="column1">
+					<ul class="navLinks">
+	<li><a href="/popular-resources/" class="heading">Popular Resources</a>
+	<ul>
+		<li><a href="/popular-resources/most-popular-books/" class="subHeading2"><strong>Most Popular Books</strong></a></li>
+		<li><a href="/popular-resources/resource-calendar/" class="subHeading2"><strong>Resource Calendar</strong></a></li>
+		<li><a href="/popular-resources/hot-search-topics/" class="subHeading2"><strong>Hot Search Topics</strong></a></li>
+	</ul>
+	</li>
+</ul>					<ul class="navLinks">
+	<li><a href="/technology/" class="heading">Technology</a>
+	<ul>
+		<li><a href="/technology/projectable/" class="subHeading2"><strong>Projectables</strong></a></li>
+		<li><a href="/technology/ebooks/" class="subHeading2"><strong><span class="lowerCase">e</span>Books</strong></a></li>
+		<li><a href="/technology/mobile-apps/" class="subHeading2"><strong>Mobile Apps</strong></a></li>
+		<!-- <li><a href="/technology/eassessments/" class="subHeading2"><strong>eAssessments</strong></a></li> -->
+	</ul>
+	</li>
+</ul>				</div>
+				<div class="column2">
+					<ul class="navLinks">
+	<li><a href="/learninga-z-levels/" class="heading">Learning A-Z Levels</a>
+	<ul>
+		<li><a href="/learninga-z-levels/level-correlation-chart/" class="subHeading2"><strong>Level Correlation Chart</strong></a>
+		<li><a href="/learninga-z-levels/text-leveling-system/" class="subheading2"><strong>Text Leveling System</strong></a></li>
+		<li><a href="/learninga-z-levels/stages-of-development/" class="subHeading2"><strong>Stages of Development</strong></a></li>
+		<li><a href="/learninga-z-levels/assessing-a-students-level/" class="subHeading2"><strong>Assessing a Student's Level</strong></a></li>
+	</ul>
+	</li>
+</ul>						<ul class="navLinks">
+		<li><a href="/curriculum-correlations/" class="heading">Standards and Correlations</a>
+		<ul>
+							<li><a href="/curriculum-correlations/commoncore/" class="subHeading2"><strong>Common Core Standards</strong></a></li>
+							<li><a href="/curriculum-correlations/reading-series-correlations/" class="subHeading2"><strong>Reading Series and Curricula</strong></a></li>
+							<li><a href="/curriculum-correlations/us-state-standards/" class="subHeading2"><strong>U.S. State Standards</strong></a></li>
+							<li><a href="/curriculum-correlations/international-standards/" class="subHeading2"><strong>International Standards</strong></a></li>
+							<li><a href="/curriculum-correlations/language-proficiency-standards/" class="subHeading2"><strong>Language Proficiency Standards</strong></a></li>
+					</ul>
+		</li>
+	</ul>
+
+				</div>
+				<div class="column3">
+				<ul class="navLinks">
+	<li ><a href="/helpful-tools/" class="heading">Helpful Tools</a>
+	<ul>
+		<li><a href="/helpful-tools/books-by-skills-chart/" class="subHeading2"><strong>Books by Skills Chart</strong></a></li>
+
+	
+		
+		<li><a href="/helpful-tools/video-library/" class="subHeading2"><strong>Video Library</strong></a></li>
+		<li ><a href="/helpful-tools/about-running-records/" class="subHeading"><strong>About Running Records</strong></a>
+		<div class="notShown">
+			<ul>
+				<li ><a href="/helpful-tools/about-running-records/taking-a-running-record/">Taking a Running Record</a></li>
+				<li ><a href="/helpful-tools/about-running-records/marking-a-running-record/">Marking a Running Record</a></li>
+				<li ><a href="/helpful-tools/about-running-records/scoring-a-running-record/">Scoring and Analyzing a Running Record</a></li>
+			</ul>
+		</div>
+		</li>
+		<li><a href="/helpful-tools/student-rewards-incentives/" class="subHeading2"><strong>Student Rewards & Incentives</strong></a></li>
+		<li><a href="/helpful-tools/research/" class="subHeading2"><strong>Research</strong></a></li>
+		<li><a href="https://www.learninga-z.com/help/training.htm" class="subHeading2"><strong>Training</strong></a></li>
+    </ul>
+    </li>
+</ul>				</div>
+			</div>
+		</li>
+	</ul>
+</div>
+
+		          <div id="mainareaHome">
+			          <div id="mainareaHome-inner">
+				          
+<script type="text/javascript">
+  var popularBooksSlider;
+
+	var banner = new BannerController({
+		bannerArray: $A([
+  $H({'button-1': 'banner-1'}),
+  $H({'button-2': 'banner-2'}),
+  $H({'button-3': 'banner-3'}),
+  $H({'button-4': 'banner-4'})]),
+		autoStart: true,
+		enableEffects: true,
+		delay: 7500
+	});
+
+	var newBooksSlider = new BannerController({
+    	bannerArray: $A([
+  $H({'button-01': 'slider-1'}),
+  $H({'button-02': 'slider-2'}),
+  $H({'button-03': 'slider-3'}),
+  $H({'button-04': 'slider-4'}),
+  $H({'button-05': 'slider-5'}),
+  $H({'button-06': 'slider-6'}),
+  $H({'button-07': 'slider-7'}),
+  $H({'button-08': 'slider-8'}),
+  $H({'button-09': 'slider-9'}),
+  $H({'button-010': 'slider-10'}),
+  $H({'button-011': 'slider-11'}),
+  $H({'button-012': 'slider-12'})]),
+    	autoStart: false,
+    	autoUpdate: false,
+    	enableEffects: true,
+    	effectType: 'slide',
+    	eventType: 'click',
+    	prevButtonId: 'arrowPrevious',
+    	nextButtonId: 'arrowNext',
+        delay: 7000
+    });
+
+    var newsScroller = new Scroller({
+    	containerId: 'newsResources-container',
+    	slideId: 'newsResources-slide',
+    	prevButtonId: 'newsScrollUp',
+    	nextButtonId: 'newsScrollDown',
+    	eventType: 'click',
+    	enableEffects: true,
+    	delay: 7000
+    });
+
+    var popularBooksSlider = new BannerController({
+      bannerArray: $A([
+        $H({'button-001': 'slider-001'}),
+        $H({'button-002': 'slider-002'}),
+        $H({'button-003': 'slider-003'}),
+        $H({'button-004': 'slider-004'}),
+        $H({'button-005': 'slider-005'})      ]),
+      autoStart: false,
+      autoUpdate: false,
+      enableEffects: true,
+      effectType: 'slide',
+      eventType: 'click',
+      prevButtonId: 'arrowPrevious2',
+      nextButtonId: 'arrowNext2',
+  	  delay: 7000
+    });
+
+    function changeGrade(link, grade) {
+      $$('li.grade_option').invoke('removeClassName', 'active');
+      var current_grade = grade;
+      if(grade == 'K') {
+        current_grade = 'Kindergarten';
+      }else {
+        current_grade = 'Grade ' + current_grade;
+      }
+
+      new Ajax.Request('/member-home-popular-book-slide.php?grade=' + grade,
+      {
+		method : 'get', evalScripts: true,
+		onSuccess : function(transport) {
+			$('slideDeck').update(transport.responseText);
+            bookPopout.bindPopoutEvents($('slideDeck').select('.bookPopout'));
+		},
+		onComplete : function() {
+      $('current_grade').update(current_grade);
+      $(link).up('li.grade_option').addClassName('active');
+			popularBooksSlider._initBanner();
+      $$('li.button00_option').invoke('removeClassName', 'selected');
+      $('button-001').addClassName('selected');
+		}
+      });
+    }
+</script>
+
+<!-- The cookie code should only run once when a user logs in and their member content is displayed -->
+<script type="text/javascript">
+    var username = "phonics221";
+    var cookieSet = "";
+    var lazCookieTargetUrl = "https://www.learninga-z.com/cors/v1/makeCookie";
+    if (cookieSet) {
+        $j.ajax({
+            type: 'POST',
+            url: lazCookieTargetUrl,
+            crossDomain: true,
+            xhrFields: {
+                withCredentials: true
+            },
+            data: {username:username},
+            dataType: 'json',
+            success: function (responseData, textStatus, jqXHR) {
+                console.log('POST succeeded. Set cookie result: ' + responseData.setCookieResult);
+            },
+            error: function (responseData, textStatus, errorThrown) {
+                console.log('POST failed. Cookie not set.');
+            }
+        });
+    }
+</script>
+
+<div id="memberHome">
+
+	<div class="leftColumnHome">
+		<!-- SLIDER -->
+		<div id="slider">
+			<div id="content">
+                <div id="banner-1" class="banner" >
+          <a href="/books/themed-nonfiction-series/spectacular-sports/">
+					<img src="/content/widget/slider/Spectacular-Sports-2016-485x221.jpg" border="0" alt=""/>
+					<span class="text">
+						<strong><i>NEW</i> Spectacular Sports Themed Nonfiction Series:</strong> Learn about some of the world's most popular sports with this series.					</span>
+					</a>
+        </div>
+                <div id="banner-2" class="banner" style="display: none;">
+          <a href="/comprehension/close-reading-packs/">
+					<img src="/content/widget/slider/Close Reading Packs-485x221.jpg" border="0" alt=""/>
+					<span class="text">
+						<strong>Do You Know?:</strong> Our Close Reading Packs build collaboration, critical thinking, communication, and other 21st Century skills.					</span>
+					</a>
+        </div>
+                <div id="banner-3" class="banner" style="display: none;">
+          <a href="/learning-centers/">
+					<img src="/content/widget/slider/Learning-Center-2016-485x221.jpg" border="0" alt=""/>
+					<span class="text">
+						<strong><i>NEW</i> Learning Centers:</strong> Give your students the opportunity to practice foundational skills in a hands-on, engaging way with Learning Centers.					</span>
+					</a>
+        </div>
+                <div id="banner-4" class="banner" style="display: none;">
+          <a href="https://accounts.learninga-z.com/accountsweb/marketing/allInOne.do?campaign=2016membersldr">
+					<img src="/content/widget/slider/trial-2016.jpg" border="0" alt=""/>
+					<span class="text">
+						<strong>Explore Our Other Products:</strong> Sign up for a free 2-week trial to any of our products today!					</span>
+					</a>
+        </div>
+        			</div><!-- /CONTENT -->
+			<div id="tabs">
+				<ul id="memberMenu">
+                    <li><a id="button-1" href="/books/themed-nonfiction-series/spectacular-sports/" class="selected">
+						<img src="/content/widget/slider/Spectacular-Sports-2016-50x50.jpg" alt="" />
+						<strong><i>NEW</i> Spectacular Sports Themed Nonfiction Series</strong>
+						<span class="arrow"></span>
+					</a></li>
+                    <li><a id="button-2" href="/comprehension/close-reading-packs/" >
+						<img src="/content/widget/slider/Close Reading Packs-50x50.jpg" alt="" />
+						<strong>Close Reading Packs</strong>
+						<span class="arrow"></span>
+					</a></li>
+                    <li><a id="button-3" href="/learning-centers/" >
+						<img src="/content/widget/slider/Learning-Center-2016-50x50.jpg" alt="" />
+						<strong><i>NEW</i> Learning Centers</strong>
+						<span class="arrow"></span>
+					</a></li>
+                    <li><a id="button-4" href="https://accounts.learninga-z.com/accountsweb/marketing/allInOne.do?campaign=2016membersldr" >
+						<img src="/content/widget/slider/trial-thumbnail-2016.jpg" alt="" />
+						<strong>Try Any Of Our Other Products For Free</strong>
+						<span class="arrow"></span>
+					</a></li>
+          				</ul>
+			</div><!-- /TABS -->
+		</div><!-- /SLIDER -->
+		<!-- /.SLIDER -->
+
+	</div>
+	<div class="rightColumnHome">
+		<div id="commonCoreHome">
+		<h2 class="home">Resource Correlations</h2>
+			<div class="container">
+				<strong>Find the right resources to align with your standards and core reading series.</strong>
+				<a class="button small purple-lt" href="/curriculum-correlations/commoncore/">Common Core Standards</a>
+				<a class="button small purple-lt" href="/curriculum-correlations/curriculum-standards/">Curriculum Standards</a>
+				<a class="button small purple-lt" href="/curriculum-correlations/reading-series-correlations/">Core Reading Series</a>
+				<a class="button small purple-lt" href="/curriculum-correlations/language-proficiency-standards/">Language Proficiency Standards</a>
+			</div>
+		</div>
+
+	</div>
+	<div class="leftColumnHome">
+
+		<!-- NEW BOOKS -->
+		<div id="newBooks">
+			<h2 class="home">New Books <span class="small">24 new books added in June 2016</span></h2>
+
+			<div class="slideDeck">
+                <div id="slider-1" class="slider" style="left:0px;">
+                               <a id="bookpopout2803" href="/books/leveled-books/book/?id=2803" class="portraitBook bookPopout" data-target="img-2803" data-query="id=2803" ><img id="img-2803" src="/thumbnails/books/175/1/2803.gif" class="thumbnail" /><br /><strong>We Go Camping</strong><span>Level aa, June 2016</span></a>
+                                  <a id="bookpopout2802" href="/books/leveled-books/book/?id=2802" class="portraitBook bookPopout" data-target="img-2802" data-query="id=2802" ><img id="img-2802" src="/thumbnails/books/175/1/2802.gif" class="thumbnail" /><br /><strong>Athletes</strong><span>Level A, June 2016</span></a>
+                                  <a id="bookpopout2785" href="/books/leveled-books/book/?id=2785" class="portraitBook bookPopout" data-target="img-2785" data-query="id=2785" ><img id="img-2785" src="/thumbnails/books/175/1/2785.gif" class="thumbnail" /><br /><strong>Clean, Not Clean</strong><span>Level A, June 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2790" href="/books/leveled-books/book/?id=2790" class="landscapeBook bookPopout" data-target="img-2790" data-query="id=2790" ><img id="img-2790" src="/thumbnails/books/175/1/2790.gif" class="thumbnail" /><br /><strong>Beach Fun</strong><span>Level B, June 2016</span></a>
+                                  <a id="bookpopout2789" href="/books/leveled-books/book/?id=2789" class="landscapeBook bookPopout" data-target="img-2789" data-query="id=2789" ><img id="img-2789" src="/thumbnails/books/175/1/2789.gif" class="thumbnail" /><br /><strong>Henry's Hike</strong><span>Level B, June 2016</span></a>
+                                  <a id="bookpopout2791" href="/books/leveled-books/book/?id=2791" class="portraitBook bookPopout" data-target="img-2791" data-query="id=2791" ><img id="img-2791" src="/thumbnails/books/175/1/2791.gif" class="thumbnail" /><br /><strong>At the Fair</strong><span>Level C, June 2016</span></a>
+                      </div>
+                <div id="slider-2" class="slider" style="left:590px;">
+                               <a id="bookpopout2804" href="/books/leveled-books/book/?id=2804" class="portraitBook bookPopout" data-target="img-2804" data-query="id=2804" ><img id="img-2804" src="/thumbnails/books/175/1/2804.gif" class="thumbnail" /><br /><strong>What Can We Draw?</strong><span>Level C, June 2016</span></a>
+                                  <a id="bookpopout2792" href="/books/leveled-books/book/?id=2792" class="portraitBook bookPopout" data-target="img-2792" data-query="id=2792" ><img id="img-2792" src="/thumbnails/books/175/1/2792.gif" class="thumbnail" /><br /><strong>Insect Wings</strong><span>Level D, June 2016</span></a>
+                                  <a id="bookpopout2805" href="/books/leveled-books/book/?id=2805" class="portraitBook bookPopout" data-target="img-2805" data-query="id=2805" ><img id="img-2805" src="/thumbnails/books/175/1/2805.gif" class="thumbnail" /><br /><strong>Whale Watching</strong><span>Level D, June 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2292" href="/books/leveled-books/book/?id=2292" class="portraitBook bookPopout" data-target="img-2292" data-query="id=2292" ><img id="img-2292" src="/thumbnails/books/175/1/2292.gif" class="thumbnail" /><br /><strong>The First Strawberry</strong><span>Level E, June 2016</span></a>
+                                  <a id="bookpopout2799" href="/books/leveled-books/book/?id=2799" class="portraitBook bookPopout" data-target="img-2799" data-query="id=2799" ><img id="img-2799" src="/thumbnails/books/175/1/2799.gif" class="thumbnail" /><br /><strong>Are You From Brazil?</strong><span>Level F, June 2016</span></a>
+                                  <a id="bookpopout2786" href="/books/leveled-books/book/?id=2786" class="portraitBook bookPopout" data-target="img-2786" data-query="id=2786" ><img id="img-2786" src="/thumbnails/books/175/1/2786.gif" class="thumbnail" /><br /><strong>Seashells</strong><span>Level F, June 2016</span></a>
+                      </div>
+                <div id="slider-3" class="slider" style="left:1180px;">
+                               <a id="bookpopout2787" href="/books/leveled-books/book/?id=2787" class="portraitBook bookPopout" data-target="img-2787" data-query="id=2787" ><img id="img-2787" src="/thumbnails/books/175/1/2787.gif" class="thumbnail" /><br /><strong>Who Needs Rain?</strong><span>Level F, June 2016</span></a>
+                                  <a id="bookpopout2788" href="/books/leveled-books/book/?id=2788" class="portraitBook bookPopout" data-target="img-2788" data-query="id=2788" ><img id="img-2788" src="/thumbnails/books/175/1/2788.gif" class="thumbnail" /><br /><strong>The Reason for Sneezing</strong><span>Level G, June 2016</span></a>
+                                  <a id="bookpopout2793" href="/books/leveled-books/book/?id=2793" class="portraitBook bookPopout" data-target="img-2793" data-query="id=2793" ><img id="img-2793" src="/thumbnails/books/175/1/2793.gif" class="thumbnail" /><br /><strong>Brainstorm Bear</strong><span>Level H, June 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2766" href="/books/leveled-books/book/?id=2766" class="portraitBook bookPopout" data-target="img-2766" data-query="id=2766" ><img id="img-2766" src="/thumbnails/books/175/1/2766.gif" class="thumbnail" /><br /><strong>Yellowstone: A Place of Wild Wonders</strong><span>Level H, June 2016</span></a>
+                                  <a id="bookpopout2754" href="/books/leveled-books/book/?id=2754" class="portraitBook bookPopout" data-target="img-2754" data-query="id=2754" ><img id="img-2754" src="/thumbnails/books/175/1/2754.gif" class="thumbnail" /><br /><strong>Tornadoes</strong><span>Level J, June 2016</span></a>
+                                  <a id="bookpopout2794" href="/books/leveled-books/book/?id=2794" class="portraitBook bookPopout" data-target="img-2794" data-query="id=2794" ><img id="img-2794" src="/thumbnails/books/175/1/2794.gif" class="thumbnail" /><br /><strong>Brainstorm Bear</strong><span>Level K, June 2016</span></a>
+                      </div>
+                <div id="slider-4" class="slider" style="left:1770px;">
+                               <a id="bookpopout2767" href="/books/leveled-books/book/?id=2767" class="portraitBook bookPopout" data-target="img-2767" data-query="id=2767" ><img id="img-2767" src="/thumbnails/books/175/1/2767.gif" class="thumbnail" /><br /><strong>Yellowstone: A Place of Wild Wonders</strong><span>Level K, June 2016</span></a>
+                                  <a id="bookpopout2755" href="/books/leveled-books/book/?id=2755" class="portraitBook bookPopout" data-target="img-2755" data-query="id=2755" ><img id="img-2755" src="/thumbnails/books/175/1/2755.gif" class="thumbnail" /><br /><strong>Tornadoes</strong><span>Level M, June 2016</span></a>
+                                  <a id="bookpopout2795" href="/books/leveled-books/book/?id=2795" class="portraitBook bookPopout" data-target="img-2795" data-query="id=2795" ><img id="img-2795" src="/thumbnails/books/175/1/2795.gif" class="thumbnail" /><br /><strong>Brainstorm Bear</strong><span>Level N, June 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2768" href="/books/leveled-books/book/?id=2768" class="portraitBook bookPopout" data-target="img-2768" data-query="id=2768" ><img id="img-2768" src="/thumbnails/books/175/1/2768.gif" class="thumbnail" /><br /><strong>Yellowstone: A Place of Wild Wonders</strong><span>Level N, June 2016</span></a>
+                                  <a id="bookpopout2756" href="/books/leveled-books/book/?id=2756" class="portraitBook bookPopout" data-target="img-2756" data-query="id=2756" ><img id="img-2756" src="/thumbnails/books/175/1/2756.gif" class="thumbnail" /><br /><strong>Tornadoes</strong><span>Level P, June 2016</span></a>
+                                  <a id="bookpopout2800" href="/books/leveled-books/book/?id=2800" class="portraitBook bookPopout" data-target="img-2800" data-query="id=2800" ><img id="img-2800" src="/thumbnails/books/175/1/2800.gif" class="thumbnail" /><br /><strong>The Kid Who Couldn't Save</strong><span>Level Q, June 2016</span></a>
+                      </div>
+                <div id="slider-5" class="slider" style="left:2360px;">
+                               <a id="bookpopout2749" href="/books/leveled-books/book/?id=2749" class="portraitBook bookPopout" data-target="img-2749" data-query="id=2749" ><img id="img-2749" src="/thumbnails/books/175/1/2749.gif" class="thumbnail" /><br /><strong>What Do I Hear?</strong><span>Level A, May 2016</span></a>
+                                  <a id="bookpopout2753" href="/books/leveled-books/book/?id=2753" class="portraitBook bookPopout" data-target="img-2753" data-query="id=2753" ><img id="img-2753" src="/thumbnails/books/175/1/2753.gif" class="thumbnail" /><br /><strong>Boats</strong><span>Level B, May 2016</span></a>
+                                  <a id="bookpopout2765" href="/books/leveled-books/book/?id=2765" class="portraitBook bookPopout" data-target="img-2765" data-query="id=2765" ><img id="img-2765" src="/thumbnails/books/175/1/2765.gif" class="thumbnail" /><br /><strong>We Buy</strong><span>Level C, May 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2757" href="/books/leveled-books/book/?id=2757" class="portraitBook bookPopout" data-target="img-2757" data-query="id=2757" ><img id="img-2757" src="/thumbnails/books/175/1/2757.gif" class="thumbnail" /><br /><strong>Buddy the Bear</strong><span>Level D, May 2016</span></a>
+                                  <a id="bookpopout2761" href="/books/leveled-books/book/?id=2761" class="portraitBook bookPopout" data-target="img-2761" data-query="id=2761" ><img id="img-2761" src="/thumbnails/books/175/1/2761.gif" class="thumbnail" /><br /><strong>Crazy Cakes</strong><span>Level E, May 2016</span></a>
+                                  <a id="bookpopout2695" href="/books/leveled-books/book/?id=2695" class="portraitBook bookPopout" data-target="img-2695" data-query="id=2695" ><img id="img-2695" src="/thumbnails/books/175/1/2695.gif" class="thumbnail" /><br /><strong>Where Are My Things?</strong><span>Level E, May 2016</span></a>
+                      </div>
+                <div id="slider-6" class="slider" style="left:2950px;">
+                               <a id="bookpopout2750" href="/books/leveled-books/book/?id=2750" class="portraitBook bookPopout" data-target="img-2750" data-query="id=2750" ><img id="img-2750" src="/thumbnails/books/175/1/2750.gif" class="thumbnail" /><br /><strong>Cinderello</strong><span>Level I, May 2016</span></a>
+                                  <a id="bookpopout2838" href="/books/leveled-books/book/?id=2838" class="portraitBook bookPopout" data-target="img-2838" data-query="id=2838" ><img id="img-2838" src="/thumbnails/books/175/1/2838.gif" class="thumbnail" /><br /><strong>Sugar, Sugar, Everywhere</strong><span>Level J, May 2016</span></a>
+                                  <a id="bookpopout2751" href="/books/leveled-books/book/?id=2751" class="portraitBook bookPopout" data-target="img-2751" data-query="id=2751" ><img id="img-2751" src="/thumbnails/books/175/1/2751.gif" class="thumbnail" /><br /><strong>Cinderello</strong><span>Level L, May 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2839" href="/books/leveled-books/book/?id=2839" class="portraitBook bookPopout" data-target="img-2839" data-query="id=2839" ><img id="img-2839" src="/thumbnails/books/175/1/2839.gif" class="thumbnail" /><br /><strong>Sugar, Sugar, Everywhere</strong><span>Level M, May 2016</span></a>
+                                  <a id="bookpopout2752" href="/books/leveled-books/book/?id=2752" class="portraitBook bookPopout" data-target="img-2752" data-query="id=2752" ><img id="img-2752" src="/thumbnails/books/175/1/2752.gif" class="thumbnail" /><br /><strong>Cinderello</strong><span>Level O, May 2016</span></a>
+                                  <a id="bookpopout2840" href="/books/leveled-books/book/?id=2840" class="portraitBook bookPopout" data-target="img-2840" data-query="id=2840" ><img id="img-2840" src="/thumbnails/books/175/1/2840.gif" class="thumbnail" /><br /><strong>Sugar, Sugar, Everywhere</strong><span>Level P, May 2016</span></a>
+                      </div>
+                <div id="slider-7" class="slider" style="left:3540px;">
+                               <a id="bookpopout2758" href="/books/leveled-books/book/?id=2758" class="portraitBook bookPopout" data-target="img-2758" data-query="id=2758" ><img id="img-2758" src="/thumbnails/books/175/1/2758.gif" class="thumbnail" /><br /><strong>Color Blindness</strong><span>Level Q, May 2016</span></a>
+                                  <a id="bookpopout2759" href="/books/leveled-books/book/?id=2759" class="portraitBook bookPopout" data-target="img-2759" data-query="id=2759" ><img id="img-2759" src="/thumbnails/books/175/1/2759.gif" class="thumbnail" /><br /><strong>Color Blindness</strong><span>Level T, May 2016</span></a>
+                                  <a id="bookpopout2796" href="/books/leveled-books/book/?id=2796" class="portraitBook bookPopout" data-target="img-2796" data-query="id=2796" ><img id="img-2796" src="/thumbnails/books/175/1/2796.gif" class="thumbnail" /><br /><strong>Marie Curie</strong><span>Level V, May 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2760" href="/books/leveled-books/book/?id=2760" class="portraitBook bookPopout" data-target="img-2760" data-query="id=2760" ><img id="img-2760" src="/thumbnails/books/175/1/2760.gif" class="thumbnail" /><br /><strong>Color Blindness</strong><span>Level W, May 2016</span></a>
+                                  <a id="bookpopout2797" href="/books/leveled-books/book/?id=2797" class="portraitBook bookPopout" data-target="img-2797" data-query="id=2797" ><img id="img-2797" src="/thumbnails/books/175/1/2797.gif" class="thumbnail" /><br /><strong>Marie Curie</strong><span>Level Y, May 2016</span></a>
+                                  <a id="bookpopout2762" href="/books/leveled-books/book/?id=2762" class="portraitBook bookPopout" data-target="img-2762" data-query="id=2762" ><img id="img-2762" src="/thumbnails/books/175/1/2762.gif" class="thumbnail" /><br /><strong>The Zoo of Extinct Animals</strong><span>Level Z, May 2016</span></a>
+                      </div>
+                <div id="slider-8" class="slider" style="left:4130px;">
+                               <a id="bookpopout2798" href="/books/leveled-books/book/?id=2798" class="portraitBook bookPopout" data-target="img-2798" data-query="id=2798" ><img id="img-2798" src="/thumbnails/books/175/1/2798.gif" class="thumbnail" /><br /><strong>Marie Curie</strong><span>Level Z1, May 2016</span></a>
+                                  <a id="bookpopout2763" href="/books/leveled-books/book/?id=2763" class="portraitBook bookPopout" data-target="img-2763" data-query="id=2763" ><img id="img-2763" src="/thumbnails/books/175/1/2763.gif" class="thumbnail" /><br /><strong>The Zoo of Extinct Animals</strong><span>Level Z1, May 2016</span></a>
+                                  <a id="bookpopout2764" href="/books/leveled-books/book/?id=2764" class="portraitBook bookPopout" data-target="img-2764" data-query="id=2764" ><img id="img-2764" src="/thumbnails/books/175/1/2764.gif" class="thumbnail" /><br /><strong>The Zoo of Extinct Animals</strong><span>Level Z2, May 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2727" href="/books/leveled-books/book/?id=2727" class="portraitBook bookPopout" data-target="img-2727" data-query="id=2727" ><img id="img-2727" src="/thumbnails/books/175/1/2727.gif" class="thumbnail" /><br /><strong>My Garden</strong><span>Level aa, April 2016</span></a>
+                                  <a id="bookpopout2724" href="/books/leveled-books/book/?id=2724" class="portraitBook bookPopout" data-target="img-2724" data-query="id=2724" ><img id="img-2724" src="/thumbnails/books/175/1/2724.gif" class="thumbnail" /><br /><strong>The Baseball Game</strong><span>Level aa, April 2016</span></a>
+                                  <a id="bookpopout2721" href="/books/leveled-books/book/?id=2721" class="portraitBook bookPopout" data-target="img-2721" data-query="id=2721" ><img id="img-2721" src="/thumbnails/books/175/1/2721.gif" class="thumbnail" /><br /><strong>Go Fly a Kite</strong><span>Level A, April 2016</span></a>
+                      </div>
+                <div id="slider-9" class="slider" style="left:4720px;">
+                               <a id="bookpopout2722" href="/books/leveled-books/book/?id=2722" class="landscapeBook bookPopout" data-target="img-2722" data-query="id=2722" ><img id="img-2722" src="/thumbnails/books/175/1/2722.gif" class="thumbnail" /><br /><strong>Lazy Lulu</strong><span>Level B, April 2016</span></a>
+                                  <a id="bookpopout2728" href="/books/leveled-books/book/?id=2728" class="portraitBook bookPopout" data-target="img-2728" data-query="id=2728" ><img id="img-2728" src="/thumbnails/books/175/1/2728.gif" class="thumbnail" /><br /><strong>Rain in the Country</strong><span>Level B, April 2016</span></a>
+                                  <a id="bookpopout2729" href="/books/leveled-books/book/?id=2729" class="portraitBook bookPopout" data-target="img-2729" data-query="id=2729" ><img id="img-2729" src="/thumbnails/books/175/1/2729.gif" class="thumbnail" /><br /><strong>Ladybugs</strong><span>Level C, April 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2725" href="/books/leveled-books/book/?id=2725" class="landscapeBook bookPopout" data-target="img-2725" data-query="id=2725" ><img id="img-2725" src="/thumbnails/books/175/1/2725.gif" class="thumbnail" /><br /><strong>Spring-Cleaning!</strong><span>Level C, April 2016</span></a>
+                                  <a id="bookpopout2526" href="/books/leveled-books/book/?id=2526" class="landscapeBook bookPopout" data-target="img-2526" data-query="id=2526" ><img id="img-2526" src="/thumbnails/books/175/1/2526.gif" class="thumbnail" /><br /><strong>We Learn to Swim</strong><span>Level C, April 2016</span></a>
+                                  <a id="bookpopout2730" href="/books/leveled-books/book/?id=2730" class="portraitBook bookPopout" data-target="img-2730" data-query="id=2730" ><img id="img-2730" src="/thumbnails/books/175/1/2730.gif" class="thumbnail" /><br /><strong>Fog</strong><span>Level D, April 2016</span></a>
+                      </div>
+                <div id="slider-10" class="slider" style="left:5310px;">
+                               <a id="bookpopout2723" href="/books/leveled-books/book/?id=2723" class="portraitBook bookPopout" data-target="img-2723" data-query="id=2723" ><img id="img-2723" src="/thumbnails/books/175/1/2723.gif" class="thumbnail" /><br /><strong>Swamps</strong><span>Level D, April 2016</span></a>
+                                  <a id="bookpopout2736" href="/books/leveled-books/book/?id=2736" class="portraitBook bookPopout" data-target="img-2736" data-query="id=2736" ><img id="img-2736" src="/thumbnails/books/175/1/2736.gif" class="thumbnail" /><br /><strong>Caring For Earth</strong><span>Level E, April 2016</span></a>
+                                  <a id="bookpopout2732" href="/books/leveled-books/book/?id=2732" class="portraitBook bookPopout" data-target="img-2732" data-query="id=2732" ><img id="img-2732" src="/thumbnails/books/175/1/2732.gif" class="thumbnail" /><br /><strong>Fantastic Phil</strong><span>Level E, April 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2527" href="/books/leveled-books/book/?id=2527" class="portraitBook bookPopout" data-target="img-2527" data-query="id=2527" ><img id="img-2527" src="/thumbnails/books/175/1/2527.gif" class="thumbnail" /><br /><strong>Color Wheel Colors</strong><span>Level F, April 2016</span></a>
+                                  <a id="bookpopout2726" href="/books/leveled-books/book/?id=2726" class="portraitBook bookPopout" data-target="img-2726" data-query="id=2726" ><img id="img-2726" src="/thumbnails/books/175/1/2726.gif" class="thumbnail" /><br /><strong>Motorcycles</strong><span>Level F, April 2016</span></a>
+                                  <a id="bookpopout2738" href="/books/leveled-books/book/?id=2738" class="portraitBook bookPopout" data-target="img-2738" data-query="id=2738" ><img id="img-2738" src="/thumbnails/books/175/1/2738.gif" class="thumbnail" /><br /><strong>A Trip to Petra</strong><span>Level G, April 2016</span></a>
+                      </div>
+                <div id="slider-11" class="slider" style="left:5900px;">
+                               <a id="bookpopout2737" href="/books/leveled-books/book/?id=2737" class="portraitBook bookPopout" data-target="img-2737" data-query="id=2737" ><img id="img-2737" src="/thumbnails/books/175/1/2737.gif" class="thumbnail" /><br /><strong>Miles the Nile Crocodile</strong><span>Level G, April 2016</span></a>
+                                  <a id="bookpopout2739" href="/books/leveled-books/book/?id=2739" class="portraitBook bookPopout" data-target="img-2739" data-query="id=2739" ><img id="img-2739" src="/thumbnails/books/175/1/2739.gif" class="thumbnail" /><br /><strong>Karate</strong><span>Level I, April 2016</span></a>
+                                  <a id="bookpopout2534" href="/books/leveled-books/book/?id=2534" class="portraitBook bookPopout" data-target="img-2534" data-query="id=2534" ><img id="img-2534" src="/thumbnails/books/175/1/2534.gif" class="thumbnail" /><br /><strong>Ghost Towns</strong><span>Level L, April 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2740" href="/books/leveled-books/book/?id=2740" class="portraitBook bookPopout" data-target="img-2740" data-query="id=2740" ><img id="img-2740" src="/thumbnails/books/175/1/2740.gif" class="thumbnail" /><br /><strong>Karate</strong><span>Level L, April 2016</span></a>
+                                  <a id="bookpopout2535" href="/books/leveled-books/book/?id=2535" class="portraitBook bookPopout" data-target="img-2535" data-query="id=2535" ><img id="img-2535" src="/thumbnails/books/175/1/2535.gif" class="thumbnail" /><br /><strong>Ghost Towns</strong><span>Level O, April 2016</span></a>
+                                  <a id="bookpopout2741" href="/books/leveled-books/book/?id=2741" class="portraitBook bookPopout" data-target="img-2741" data-query="id=2741" ><img id="img-2741" src="/thumbnails/books/175/1/2741.gif" class="thumbnail" /><br /><strong>Karate</strong><span>Level O, April 2016</span></a>
+                      </div>
+                <div id="slider-12" class="slider" style="left:6490px;">
+                               <a id="bookpopout2657" href="/books/leveled-books/book/?id=2657" class="portraitBook bookPopout" data-target="img-2657" data-query="id=2657" ><img id="img-2657" src="/thumbnails/books/175/1/2657.gif" class="thumbnail" /><br /><strong>World Traveler Ibn Battuta</strong><span>Level P, April 2016</span></a>
+                                  <a id="bookpopout2536" href="/books/leveled-books/book/?id=2536" class="portraitBook bookPopout" data-target="img-2536" data-query="id=2536" ><img id="img-2536" src="/thumbnails/books/175/1/2536.gif" class="thumbnail" /><br /><strong>Ghost Towns</strong><span>Level R, April 2016</span></a>
+                                  <a id="bookpopout2658" href="/books/leveled-books/book/?id=2658" class="portraitBook bookPopout" data-target="img-2658" data-query="id=2658" ><img id="img-2658" src="/thumbnails/books/175/1/2658.gif" class="thumbnail" /><br /><strong>World Traveler Ibn Battuta</strong><span>Level S, April 2016</span></a>
+                            <div class="divider"></div>
+                                  <a id="bookpopout2659" href="/books/leveled-books/book/?id=2659" class="portraitBook bookPopout" data-target="img-2659" data-query="id=2659" ><img id="img-2659" src="/thumbnails/books/175/1/2659.gif" class="thumbnail" /><br /><strong>World Traveler Ibn Battuta</strong><span>Level V, April 2016</span></a>
+                      </div>
+        		  	</div><!-- /SLIDEDECK -->
+			<ul id="recommendationsButtons" style="width: 192px; margin-left: -84px">
+                <li id="button-01" class="selected"></li>
+                <li id="button-02"></li>
+                <li id="button-03"></li>
+                <li id="button-04"></li>
+                <li id="button-05"></li>
+                <li id="button-06"></li>
+                <li id="button-07"></li>
+                <li id="button-08"></li>
+                <li id="button-09"></li>
+                <li id="button-010"></li>
+                <li id="button-011"></li>
+                <li id="button-012"></li>
+        			</ul>
+			<div id="arrowPrevious">Previous</div>
+			<div id="arrowNext">Next</div>
+		</div><!-- /NEWBOOKS -->
+
+	</div>
+
+	<div class="rightColumnHome">
+
+		<!-- News and Resources -->
+		<div id="newsResources">
+			<a href="javascript:void(0);" id="newsScrollUp" class="inactive-scroll" title="Scroll up to read more News"><span>Scroll up to more News</span></a>
+			<a href="javascript:void(0);" id="newsScrollDown" class="active-scroll" title="Scroll down to read more News"><span>Scroll down to more News</span></a>
+			<h2 class="home">Product Updates &amp; Info</h2>
+				<div id="newsResources-container">
+					<div id="newsResources-slide">
+						    						    <div class="newsItem first"><h2>Student Book Review Forms</h2>
+    						        <p><img src="/thumbnails/non-books/9946.gif?t=1461279342" style="border: 1px solid #ccc; float: left; margin: 0 6px 15px 0; width: 65px; height: 100px;" /> The <a href="site_and_dist/nonbooks/free_pdfs_student_book_review_forms/student_book_review_forms.pdf" title="Student Book Review Form">Student Book Review Forms</a>&nbsp;encourage students to think critically about books and share opinions with others. Students can even share their reviews with the Reading A-Z team!</p></div>
+    					    						    <div class="newsItem"><h2><i>New</i> Levels Z1 and Z2</h2>
+    						        <p>Reading A-Z and Raz-Kids now have <a href="/books/leveled-books/" title="Leveled Books" target="_self">Leveled Books</a> at levels Z1 and Z2. Books and resources at these levels are written for students in fifth grade who are reading beyond a fifth grade level.</p></div>
+    					    						    <div class="newsItem"><h2>Comprehension Quiz Answer Keys</h2>
+    						        <p>The Level Answer Sheets for the Leveled Book Comprehension Quizzes are no longer available. Each Comprehension Quiz now has an individual answer key as the final page of the printable quiz.</p></div>
+    					    						    <div class="newsItem"><h2>Content Area Reading</h2>
+    						        <p>The <a href="/content-area-reading/">Content Area Reading</a> collections save valuable time by combining content area and literacy instruction. Categories contain instructionally focused groups of books at a range of levels to help students <em>learn to read</em> and <em>read to learn.</em></p></div>
+    					    						    <div class="newsItem last"><h2>Genre Collections</h2>
+    						        <p>The books in the <a href="/books/genre-collections/">Genre Collections</a> are handpicked by our editors to provide students with examples of various genres at a range of text complexity levels. By reading a variety of texts, students are able to identify the characteristics of different genres.</p></div>
+    										</div><!-- /NEWSRESOURCES-INNER -->
+				</div><!-- /NEWSRESOURCES-WRAPPER -->
+		</div><!-- /NEWSRESOURCES -->
+		<!-- /.NEWS AND RESOURCES -->
+
+	</div>
+
+
+
+	<div style="clear: both; height: 20px;"></div>
+
+	<div class="leftColumnHome">
+
+		<!-- MOST POPULAR BOOKS -->
+		<div id="mostPopularBooks">
+			<h2 class="home" id="mostPopularBooksHeading">Most Popular Books for </h2>
+      <div id="slideDeck" class="slideDeck">
+      <ul class="main"><li class="top"><a href="#" onclick="return false;"><span id="current_grade">Kindergarten</span></a><div><ul class="hiddenNav">
+				<li class="grade_option active" ><a href="" onclick="changeGrade($(this), 'K'); return false;">Kindergarten</a></li>
+                <li class="grade_option"><a href="" onclick="changeGrade($(this), '1'); return false;">Grade 1</a></li>
+                <li class="grade_option"><a href="" onclick="changeGrade($(this), '2'); return false;">Grade 2</a></li>
+                <li class="grade_option"><a href="" onclick="changeGrade($(this), '3'); return false;">Grade 3</a></li>
+                <li class="grade_option"><a href="" onclick="changeGrade($(this), '4'); return false;">Grade 4</a></li>
+                <li class="grade_option"><a href="" onclick="changeGrade($(this), '5'); return false;">Grade 5</a></li>
+        			</ul></div></li></ul>
+      <div id="slider-001" class="slider">
+                    <a id="bookpopout174" href="/books/leveled-books/book/?id=174" class="portraitBook bookPopout" data-query="id=174" data-target="mpImg-174">
+
+        	<img id="mpImg-174" src="/thumbnails/books/175/1/174.gif" class="thumbnail" />
+        	<br /><strong>Big</strong><span>Level aa</span>
+        </a>
+                    <a id="bookpopout2790" href="/books/leveled-books/book/?id=2790" class="landscapeBook bookPopout" data-query="id=2790" data-target="mpImg-2790">
+
+        	<img id="mpImg-2790" src="/thumbnails/books/175/1/2790.gif" class="thumbnail" />
+        	<br /><strong>Beach Fun</strong><span>Level B</span>
+        </a>
+                    <a id="bookpopout2765" href="/books/leveled-books/book/?id=2765" class="portraitBook bookPopout" data-query="id=2765" data-target="mpImg-2765">
+
+        	<img id="mpImg-2765" src="/thumbnails/books/175/1/2765.gif" class="thumbnail" />
+        	<br /><strong>We Buy</strong><span>Level C</span>
+        </a>
+            </div>
+      <div id="slider-002" class="slider">
+                    <a id="bookpopout320" href="/books/leveled-books/book/?id=320" class="portraitBook bookPopout" data-query="id=320" data-target="mpImg-320">
+
+        	<img id="mpImg-320" src="/thumbnails/books/175/1/320.gif" class="thumbnail" />
+        	<br /><strong>Get In</strong><span>Level C</span>
+        </a>
+                    <a id="bookpopout2749" href="/books/leveled-books/book/?id=2749" class="portraitBook bookPopout" data-query="id=2749" data-target="mpImg-2749">
+
+        	<img id="mpImg-2749" src="/thumbnails/books/175/1/2749.gif" class="thumbnail" />
+        	<br /><strong>What Do I Hear?</strong><span>Level A</span>
+        </a>
+                    <a id="bookpopout45" href="/books/leveled-books/book/?id=45" class="landscapeBook bookPopout" data-query="id=45" data-target="mpImg-45">
+
+        	<img id="mpImg-45" src="/thumbnails/books/175/1/45.gif" class="thumbnail" />
+        	<br /><strong>Birthday Party</strong><span>Level C</span>
+        </a>
+            </div>
+      <div id="slider-003" class="slider">
+                    <a id="bookpopout1824" href="/books/leveled-books/book/?id=1824" class="portraitBook bookPopout" data-query="id=1824" data-target="mpImg-1824">
+
+        	<img id="mpImg-1824" src="/thumbnails/books/175/1/1824.gif" class="thumbnail" />
+        	<br /><strong>The Big Cat</strong><span>Level A</span>
+        </a>
+                    <a id="bookpopout1521" href="/books/leveled-books/book/?id=1521" class="portraitBook bookPopout" data-query="id=1521" data-target="mpImg-1521">
+
+        	<img id="mpImg-1521" src="/thumbnails/books/175/1/1521.gif" class="thumbnail" />
+        	<br /><strong>How Frogs Grow</strong><span>Level C</span>
+        </a>
+                    <a id="bookpopout9" href="/books/leveled-books/book/?id=9" class="portraitBook bookPopout" data-query="id=9" data-target="mpImg-9">
+
+        	<img id="mpImg-9" src="/thumbnails/books/175/1/9.gif" class="thumbnail" />
+        	<br /><strong>Baby Animals</strong><span>Level A</span>
+        </a>
+            </div>
+      <div id="slider-004" class="slider">
+                    <a id="bookpopout1531" href="/books/leveled-books/book/?id=1531" class="portraitBook bookPopout" data-query="id=1531" data-target="mpImg-1531">
+
+        	<img id="mpImg-1531" src="/thumbnails/books/175/1/1531.gif" class="thumbnail" />
+        	<br /><strong>The Backyard</strong><span>Level aa</span>
+        </a>
+                    <a id="bookpopout2729" href="/books/leveled-books/book/?id=2729" class="portraitBook bookPopout" data-query="id=2729" data-target="mpImg-2729">
+
+        	<img id="mpImg-2729" src="/thumbnails/books/175/1/2729.gif" class="thumbnail" />
+        	<br /><strong>Ladybugs</strong><span>Level C</span>
+        </a>
+                    <a id="bookpopout1642" href="/books/leveled-books/book/?id=1642" class="portraitBook bookPopout" data-query="id=1642" data-target="mpImg-1642">
+
+        	<img id="mpImg-1642" src="/thumbnails/books/175/1/1642.gif" class="thumbnail" />
+        	<br /><strong>Different Kinds of Sharks</strong><span>Level C</span>
+        </a>
+            </div>
+      <div id="slider-005" class="slider">
+                    <a id="bookpopout2753" href="/books/leveled-books/book/?id=2753" class="portraitBook bookPopout" data-query="id=2753" data-target="mpImg-2753">
+
+        	<img id="mpImg-2753" src="/thumbnails/books/175/1/2753.gif" class="thumbnail" />
+        	<br /><strong>Boats</strong><span>Level B</span>
+        </a>
+                    <a id="bookpopout176" href="/books/leveled-books/book/?id=176" class="portraitBook bookPopout" data-query="id=176" data-target="mpImg-176">
+
+        	<img id="mpImg-176" src="/thumbnails/books/175/1/176.gif" class="thumbnail" />
+        	<br /><strong>Summer</strong><span>Level aa</span>
+        </a>
+              <a href="/myzone/most-popular-books.html?grade=K" class="seeAll">See all popular books for all grades</a>
+    </div>
+  </div>
+
+<ul id="recommendationsButtons">
+    <li id="button-001" class="button00_option selected"></li>
+    <li id="button-002" class="button00_option"></li>
+    <li id="button-003" class="button00_option"></li>
+    <li id="button-004" class="button00_option"></li>
+    <li id="button-005" class="button00_option"></li>
+</ul>
+<div id="arrowPrevious2">Previous</div>
+<div id="arrowNext2">Next</div>
+		</div><!-- /MOSTPOPULARBOOKS -->
+		<!-- /.MOST POPULAR BOOKS -->
+
+    		<!-- HOT SEARCH TOPICS -->
+		<div id="hotSearchTopics">
+			<h2 class="home">Hot Search Topics</h2>
+			<div class="cloud">
+                    <a href="/search/#doSearch=Search&searchTerms=animals&btn-search.x=0&btn-search.y=0" class="medium">animals</a>
+                    <a href="/search/#doSearch=Search&searchTerms=beach&btn-search.x=0&btn-search.y=0" class="smallCloud">beach</a>
+                    <a href="/search/#doSearch=Search&searchTerms=benchmark passages&btn-search.x=0&btn-search.y=0" class="medium">benchmark passages</a>
+                    <a href="/search/#doSearch=Search&searchTerms=camping&btn-search.x=0&btn-search.y=0" class="smallCloud">camping</a>
+                    <a href="/search/#doSearch=Search&searchTerms=correlation chart&btn-search.x=0&btn-search.y=0" >correlation chart</a>
+                    <a href="/search/#doSearch=Search&searchTerms=dinosaurs&btn-search.x=0&btn-search.y=0" >dinosaurs</a>
+                    <a href="/search/#doSearch=Search&searchTerms=fairy tales&btn-search.x=0&btn-search.y=0" class="medium">fairy tales</a>
+                    <a href="/search/#doSearch=Search&searchTerms=father's day&btn-search.x=0&btn-search.y=0" >father's day</a>
+                    <a href="/search/#doSearch=Search&searchTerms=flag day&btn-search.x=0&btn-search.y=0" class="large">flag day</a>
+                    <a href="/search/#doSearch=Search&searchTerms=fluency passages&btn-search.x=0&btn-search.y=0" class="large">fluency passages</a>
+                    <a href="/search/#doSearch=Search&searchTerms=insects&btn-search.x=0&btn-search.y=0" class="smallCloud">insects</a>
+                    <a href="/search/#doSearch=Search&searchTerms=leveled books&btn-search.x=0&btn-search.y=0" class="large">leveled books</a>
+                    <a href="/search/#doSearch=Search&searchTerms=ocean&btn-search.x=0&btn-search.y=0" class="medium">ocean</a>
+                    <a href="/search/#doSearch=Search&searchTerms=olympics&btn-search.x=0&btn-search.y=0" class="medium">olympics</a>
+                    <a href="/search/#doSearch=Search&searchTerms=plants&btn-search.x=0&btn-search.y=0" class="smallCloud">plants</a>
+                    <a href="/search/#doSearch=Search&searchTerms=readers theater&btn-search.x=0&btn-search.y=0" class="large">readers theater</a>
+                    <a href="/search/#doSearch=Search&searchTerms=running records&btn-search.x=0&btn-search.y=0" >running records</a>
+                    <a href="/search/#doSearch=Search&searchTerms=sharks&btn-search.x=0&btn-search.y=0" class="smallCloud">sharks</a>
+                    <a href="/search/#doSearch=Search&searchTerms=space&btn-search.x=0&btn-search.y=0" >space</a>
+                    <a href="/search/#doSearch=Search&searchTerms=summer&btn-search.x=0&btn-search.y=0" class="large">summer</a>
+                    <a href="/search/#doSearch=Search&searchTerms=summer olympics&btn-search.x=0&btn-search.y=0" >summer olympics</a>
+                    <a href="/search/#doSearch=Search&searchTerms=summer vacation&btn-search.x=0&btn-search.y=0" >summer vacation</a>
+                	</div>
+		</div>
+
+		<!-- /.HOT SEARCH TOPICS -->
+	</div>
+
+	<div class="rightColumnHome">
+		<!-- Resource Calendar -->
+		<div id="cal">
+			<div class="header">
+				<a href="/myzone/resource-calendar.html?m=5&amp;y=2016" class="previousButton calButton" id="prev">Previous</a>
+				<span class="month-year" id="label"> June 2016<br /><span class="small">Resource Calendar</span> </span>
+				<a href="/myzone/resource-calendar.html?m=7&amp;y=2016" class="nextButton calButton" id="next">Next</a>
+			</div>
+			<div id="calendarDays">
+		      <table id="days" border="1">
+		        <thead id="days">
+		          <tr><td>S</td><td>M</td><td>T</td><td>W</td><td>T</td><td>F</td><td>S</td></tr>
+		        </thead>
+		        <tbody class="curr" id="cal-frame">
+		          		          <tr>
+		            		            <td class="nd">
+		              <div class="element">
+		                		              </div>
+		            </td>
+		            		            <td class="nd">
+		              <div class="element">
+		                		              </div>
+		            </td>
+		            		            <td class="nd">
+		              <div class="element">
+		                		              </div>
+		            </td>
+		            		            <td class="ws">
+		              <div class="element">
+		                		                    		                    	<a href="/book.php?id=801" target="resource1" rel="simplePopout" data-position="above" class="firstLink">1</a>
+		                    
+		                    		                        <div class="toolTip" id="resource1" style="display: none;">
+		                        	<span class="arrowDown"></span>
+		                        	<ul>
+		                            		                               <li><a href="/book.php?id=801">Atlantic hurricane season begins</a></li>
+		                            		                        	</ul>
+		                        </div>
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	2		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	3		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	4		                    
+		                    		                		              </div>
+		            </td>
+		            		          </tr>
+		          		          <tr>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	5		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	6		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	7		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td class="ws">
+		              <div class="element">
+		                		                    		                    	<a href="/search/#doSearch=Search&searchTerms=ocean&searchView=list" target="resource8" rel="simplePopout" data-position="above" class="firstLink">8</a>
+		                    
+		                    		                        <div class="toolTip" id="resource8" style="display: none;">
+		                        	<span class="arrowDown"></span>
+		                        	<ul>
+		                            		                               <li><a href="/search/#doSearch=Search&searchTerms=ocean&searchView=list">World Oceans Day</a></li>
+		                            		                        	</ul>
+		                        </div>
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	9		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	10		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	11		                    
+		                    		                		              </div>
+		            </td>
+		            		          </tr>
+		          		          <tr>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	12		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	13		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td class="ws">
+		              <div class="element">
+		                		                    		                    	<a href="/search/#doSearch=Search&searchTerms=flag%2Bday&searchView=list" target="resource14" rel="simplePopout" data-position="above" class="firstLink">14</a>
+		                    
+		                    		                        <div class="toolTip" id="resource14" style="display: none;">
+		                        	<span class="arrowDown"></span>
+		                        	<ul>
+		                            		                               <li><a href="/search/#doSearch=Search&searchTerms=flag%2Bday&searchView=list">Flag Day</a></li>
+		                            		                        	</ul>
+		                        </div>
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	15		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td class="today">
+		              <div class="element">
+		                		                    		                    	16		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td class="ws">
+		              <div class="element">
+		                		                    		                    	<a href="/search/#doSearch=Search&searchTerms=vegetable&searchView=list" target="resource17" rel="simplePopout" data-position="above" class="firstLink">17</a>
+		                    
+		                    		                        <div class="toolTip" id="resource17" style="display: none;">
+		                        	<span class="arrowDown"></span>
+		                        	<ul>
+		                            		                               <li><a href="/search/#doSearch=Search&searchTerms=vegetable&searchView=list">Eat Your Vegetables Day</a></li>
+		                            		                        	</ul>
+		                        </div>
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	18		                    
+		                    		                		              </div>
+		            </td>
+		            		          </tr>
+		          		          <tr>
+		            		            <td class="ws">
+		              <div class="element">
+		                		                    		                    	<a href="/search/#doSearch=Search&searchTerms=dadsday&searchView=list" target="resource19" rel="simplePopout" data-position="above" class="firstLink">19</a>
+		                    
+		                    		                        <div class="toolTip" id="resource19" style="display: none;">
+		                        	<span class="arrowDown"></span>
+		                        	<ul>
+		                            		                               <li><a href="/search/#doSearch=Search&searchTerms=dadsday&searchView=list">Father's Day</a></li>
+		                            		                        	</ul>
+		                        </div>
+		                    		                		              </div>
+		            </td>
+		            		            <td class="ws">
+		              <div class="element">
+		                		                    		                    	<a href="/search/#doSearch=Search&searchTerms=insect&searchView=list" target="resource20" rel="simplePopout" data-position="above" class="firstLink">20</a>
+		                    
+		                    		                        <div class="toolTip" id="resource20" style="display: none;">
+		                        	<span class="arrowDown"></span>
+		                        	<ul>
+		                            		                               <li><a href="/search/#doSearch=Search&searchTerms=insect&searchView=list">National Insect Week</a></li>
+		                            		                               <li><a href="/search/#doSearch=Search&searchTerms=summer&searchView=list">Summer Solstice / First Day of Summer</a></li>
+		                            		                        	</ul>
+		                        </div>
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	21		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	22		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	23		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	24		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	25		                    
+		                    		                		              </div>
+		            </td>
+		            		          </tr>
+		          		          <tr>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	26		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	27		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td class="ws">
+		              <div class="element">
+		                		                    		                    	<a href="/book.php?id=1418" target="resource28" rel="simplePopout" data-position="above" class="firstLink">28</a>
+		                    
+		                    		                        <div class="toolTip" id="resource28" style="display: none;">
+		                        	<span class="arrowDown"></span>
+		                        	<ul>
+		                            		                               <li><a href="/book.php?id=1418">Paul Bunyan Day</a></li>
+		                            		                        	</ul>
+		                        </div>
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	29		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td >
+		              <div class="element">
+		                		                    		                    	30		                    
+		                    		                		              </div>
+		            </td>
+		            		            <td class="nd">
+		              <div class="element">
+		                		              </div>
+		            </td>
+		            		            <td class="nd">
+		              <div class="element">
+		                		              </div>
+		            </td>
+		            		          </tr>
+		          		        </tbody>
+		      </table>
+		    </div>
+		</div>
+		<!-- /.RESOURCE CALENDAR -->
+	</div>
+        <iframe src="https://www.learninga-z.com/teacherUsername.html" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+    </div>
+			          </div>
+		          </div>
+                <div id="footerInternal"></div>
+	</div>
+         
+         <div id="razFooter">
+         	<div id="razFooterTop"></div>
+         	<div id="razFooterBottom">
+         		
+         		<ul><li class="first"><a href="/about-readinga-z/">About Reading A-Z</a></li><li><a href="/sitemap/">Site Map</a></li><li><a href="/helpful-tools/research/">Research</a></li><li><a href="/about-readinga-z/testimonials/">Testimonials</a></li><li class="last"><a href="http://help.learninga-z.com/customer/portal/articles/1649236-privacy">Privacy Policy</a></li></ul> 
+         	
+         	</div>
+         </div>
+</div>
+<div style="padding-top:35px;">
+    <div class="footer">
+	<div class="footerTop">
+		<div class="siteContainer padAll4">
+            	<a href="https://www.learninga-z.com" class="padR4"><img src="/shared/images/logos/logo-learninga-z.svg" alt="Learning A-Z" title="Learning A-Z" class="logo-footer logo-footer-laz"/></a>
+
+                                            <a href="/auth/go.php?site=raz"><img src="/shared/images/logos/logo-readinga-z.svg" alt="Reading A-Z" title="Reading A-Z" class="logo-footer logo-footer-product logo-footer-raz"/></a>
+                                            <a href="/auth/go.php?site=rk"><img src="/shared/images/logos/logo-raz-kids.svg" alt="Raz-Kids" title="Raz-Kids" class="logo-footer logo-footer-product logo-footer-rk"/></a>
+                                            <a href="/auth/go.php?site=headsprout"><img src="/shared/images/logos/logo-headsprout.svg" alt="Headsprout" title="Headsprout" class="logo-footer logo-footer-product logo-footer-headsprout"/></a>
+                                            <a href="/auth/go.php?site=saz"><img src="/shared/images/logos/logo-sciencea-z.svg" alt="Science A-Z" title="Science A-Z" class="logo-footer logo-footer-product logo-footer-saz"/></a>
+                                            <a href="/auth/go.php?site=waz"><img src="/shared/images/logos/logo-writinga-z.svg" alt="Writing A-Z" title="Writing A-Z" class="logo-footer logo-footer-product logo-footer-waz"/></a>
+                                            <a href="/auth/go.php?site=vocab"><img src="/shared/images/logos/logo-vocabularya-z.svg" alt="Vocabulary A-Z" title="Vocabulary A-Z" class="logo-footer logo-footer-product logo-footer-vocab"/></a>
+                                            <a href="/auth/go.php?site=tr"><img src="/shared/images/logos/logo-readytesta-z.svg" alt="ReadyTest A-Z" title="ReadyTest A-Z" class="logo-footer logo-footer-product logo-footer-tr"/></a>
+                                            <a href="/auth/go.php?site=kaz"><img src="/shared/images/logos/logo-kidsa-z.svg" alt="Kids A-Z" title="Kids A-Z" class="logo-footer logo-footer-product logo-footer-kaz"/></a>
+                
+			</div>
+			<div class="clear"></div>
+		</div>
+
+	<div class="box footerBottom">
+		<div class="siteContainer padAll4">
+    		<div class="box-15 borderR">
+              <a href="http://www.facebook.com/pages/Tucson-AZ/Learning-A-Z/63059760237?ref=ts" target="_LAZInfo"><img src="/shared/images/social-facebook.png" alt="Connect with us on Facebook" title="Connect with us on Facebook" /></a>
+              <a href="http://twitter.com/LearningAtoZ" target="_LAZInfo"><img src="/shared/images/social-twitter.png" alt="Follow Us on Twitter" title="Follow Us on Twitter" /></a>
+              <a href="http://www.youtube.com/user/LearningAZVideo" target="_LAZInfo"><img src="/shared/images/social-youtube.png" alt="Watch Us on You Tube" title="Watch Us on You Tube" /></a>
+            </div>
+    		<div class="box-40 padLR3" style="line-height: 30px;">&copy;
+              <a href="https://www.learninga-z.com/about-learninga-z.html" target="_LAZInfo" class="padR4">Learning A-Z</a> <span class="links">
+              <a href="https://www.learninga-z.com/uses-training.html" target="_LAZInfo">Training</a> |
+              <a href="https://www.learninga-z.com/help/" target="_LAZInfo">Help</a> |
+              <a href="https://www.learninga-z.com/contact-support.html?username=phonics221" target="_LAZInfo">Contact Us</a></span>
+            </div>
+            <div class="box-45" style="text-align: right;">
+				<a class="btn btn-subtle" href="https://accounts.learninga-z.com/accountsweb/marketing/newsletterSubscribe.do">Newsletter Signup</a><br />
+            	<small class="box marginBTsm">You may <a href="https://accounts.learninga-z.com/accountsweb/marketing/unsubscribe.do" class="unsubscribe">unsubscribe</a> at any time.</small>
+            </div>
+        </div>
+    	<div class="clear"></div>
+    </div>
+</div>
+</div>
+  
+    <script type="text/javascript" src="/shared/js/svgeezy.min--clt_16_06_014-1466020978.js"></script>
+    <script type="text/javascript">
+		svgeezy.init('nocheck', 'png'); // this will tell the plugin to not check images with a class of 'nocheck'
+    </script>	      	
+</body>
+</html>
